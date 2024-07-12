@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "word": "hoặc",
+            "_word": "hoac",
+            "description": "Từ biểu thị quan hệ giữa nhiều (thường là hai) khả năng khác nhau, không khả năng này thì khả năng kia, ít nhất có một khả năng được thực hiện.",
+            "tl": "Liên từ",
+            "synset_vi": [
+                "hay",
+                "hay là"
+            ]
+        },
+        {
+            "word": "hay là (hoặc là)",
+            "_word": "hay la (hoac la)",
+            "description": "Từ biểu thị điều sắp nêu ra là một khả năng mà người nói thấy chưa thể khẳng định, đang còn hồ nghi.",
+            "tl": "Liên từ",
+            "synset_vi": [
+                "hoặc"
+            ]
+        }
+    ]
+}

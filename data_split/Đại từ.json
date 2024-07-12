@@ -1,0 +1,159 @@
+{
+    "data": [
+        {
+            "word": "kia",
+            "_word": "kia",
+            "description": "Từ dùng để chỉ một sự vật, địa điểm, hiện tượng ở xa vị trí của người nói, nhưng trong phạm vi có thể nhìn thấy cụ thể.",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "kia",
+                "đó",
+                "ấy",
+                "nọ"
+            ]
+        },
+        {
+            "word": "chúng tôi (2 người) (đại từ)",
+            "_word": "chung toi (2 nguoi) (dai tu)",
+            "description": "Chỉ hai người ở ngôi thứ 3 số nhiều.",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "hai đứa mình",
+                "cả hai"
+            ]
+        },
+        {
+            "word": "chúng tôi (3 người) (đại từ)",
+            "_word": "chung toi (3 nguoi) (dai tu)",
+            "description": "Chỉ ba người ở ngôi thứ 3 số nhiều.",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "ba đứa mình",
+                "cả ba"
+            ]
+        },
+        {
+            "word": "chúng tôi (4 người) (đại từ)",
+            "_word": "chung toi (4 nguoi) (dai tu)",
+            "description": "Chỉ bốn người ở ngôi thứ 3 số nhiều.",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "bốn đứa mình",
+                "cả bốn"
+            ]
+        },
+        {
+            "word": "chúng tôi (5 người) (đại từ)",
+            "_word": "chung toi (5 nguoi) (dai tu)",
+            "description": "Chỉ năm người ở ngôi thứ 3 số nhiều.",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "năm đứa mình",
+                "cả năm"
+            ]
+        },
+        {
+            "word": "chúng tôi (đại từ)",
+            "_word": "chung toi (dai tu)",
+            "description": "Tổ hợp dùng để nhân danh một số người mà tự xưng.",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "bọn tôi",
+                "tụi tôi",
+                "chúng ta"
+            ]
+        },
+        {
+            "word": "các bạn (2 người) ",
+            "_word": "cac ban (2 nguoi) ",
+            "description": "",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "hai bạn",
+                "cả hai"
+            ]
+        },
+        {
+            "word": "họ (2 người) (đại từ)",
+            "_word": "ho (2 nguoi) (dai tu)",
+            "description": "",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "hai người đó",
+                "hai người ấy"
+            ]
+        },
+        {
+            "word": "họ (đại từ)",
+            "_word": "ho (dai tu)",
+            "description": "",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "bọn họ",
+                "đám họ",
+                "bọn ấy"
+            ]
+        },
+        {
+            "word": "ai",
+            "_word": "ai",
+            "description": "Từ dùng để nói về người nào đó, không rõ. ",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "người nào",
+                "ai đó"
+            ]
+        },
+        {
+            "word": "bao nhiêu?",
+            "_word": "bao nhieu?",
+            "description": "Số lượng không rõ nhiều hay ít (thường dùng để hỏi).",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "mấy",
+                "biết bao nhiêu"
+            ]
+        },
+        {
+            "word": "các bạn",
+            "_word": "cac ban",
+            "description": "",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "mọi người",
+                "các cậu",
+                "tất cả"
+            ]
+        },
+        {
+            "word": "là gì?",
+            "_word": "la gi?",
+            "description": "",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "là cái gì",
+                "là ai"
+            ]
+        },
+        {
+            "word": "mấy giờ?",
+            "_word": "may gio?",
+            "description": "",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "giờ nào",
+                "bao nhiêu giờ"
+            ]
+        },
+        {
+            "word": "thế nào?",
+            "_word": "the nao?",
+            "description": "Tổ hợp biểu thị có một điều muốn hỏi.",
+            "tl": "Đại từ",
+            "synset_vi": [
+                "ra sao",
+                "như thế nào"
+            ]
+        }
+    ]
+}

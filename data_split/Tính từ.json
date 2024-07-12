@@ -1,0 +1,3828 @@
+{
+    "data": [
+        {
+            "data": [
+                {
+                    "word": "dỗi",
+                    "_word": "doi",
+                    "description": "Tỏ thái độ giận, không bằng lòng bằng cách làm như không cần đến nữa, không thiết nữa.",
+                    "tl": "Tính từ",
+                    "synset_vi": [
+                        "giận",
+                        "hờn",
+                        "mếch lòng",
+                        "trái ý"
+                    ]
+                },
+                {
+                    "word": "duy nhất",
+                    "_word": "duy nhat",
+                    "description": "Chỉ có một mà thôi, không có hai.",
+                    "tl": "Tính từ",
+                    "synset_vi": [
+                        "độc nhất",
+                        "duy",
+                        "riêng",
+                        "chỉ một"
+                    ]
+                },
+                {
+                    "word": "dốc",
+                    "_word": "doc",
+                    "description": "Đoạn đường cao dần lên hoặc thấp dần xuống.",
+                    "tl": "Tính từ",
+                    "synset_vi": [
+                        "thoai thoải",
+                        "chông chênh",
+                        "nghiêng",
+                        "trượt"
+                    ]
+                },
+                {
+                    "word": "dốt",
+                    "_word": "dot",
+                    "description": "Kém về trí lực, chậm hiểu, chậm tiếp thu.",
+                    "tl": "Tính từ",
+                    "synset_vi": [
+                        "ngu",
+                        "kém hiểu biết",
+                        "chậm tiêu",
+                        "u mê"
+                    ]
+                },
+                {
+                    "word": "dũng cảm",
+                    "_word": "dung cam",
+                    "description": "Có dũng khí, không sợ gian khổ nguy hiểm.",
+                    "tl": "Tính từ",
+                    "synset_vi": [
+                        "anh dũng",
+                        "can đảm",
+                        "gan dạ",
+                        "anh hùng"
+                    ]
+                },
+                {
+                    "word": "duyên dáng",
+                    "_word": "duyen dang",
+                    "description": "Có những nét có duyên (nói tổng quát).",
+                    "tl": "Tính từ",
+                    "synset_vi": [
+                        "xinh xắn",
+                        "thướt tha",
+                        "yểu điệu",
+                        "quyến rũ"
+                    ]
+                }
+            ]
+        },
+        {
+            "word": "hấp dẫn",
+            "_word": "hap dan",
+            "description": "Có sức lôi cuốn, làm cho người ta ham thích.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thu hút",
+                "quyến rũ",
+                "lôi cuốn",
+                "hấp dẫn"
+            ]
+        },
+        {
+            "word": "lung tung",
+            "_word": "lung tung",
+            "description": "Hoàn toàn không có một trật tự nào cả.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "bừa bộn",
+                "lộn xộn",
+                "ngổn ngang",
+                "hỗn độn"
+            ]
+        },
+        {
+            "word": "hói đầu",
+            "_word": "hoi dau",
+            "description": "Tình trạng bị rụng nhiều hoặc gần hết tóc, làm vùng trên trán và đỉnh đầu trơn nhẵn.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "trọc đầu",
+                "hói"
+            ]
+        },
+        {
+            "word": "tự giác",
+            "_word": "tu giac",
+            "description": "Tự mình hiểu mà làm, không cần nhắc nhở, đốc thúc.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "chủ động",
+                "tự nguyện",
+                "tự giác"
+            ]
+        },
+        {
+            "word": "mù chữ",
+            "_word": "mu chu",
+            "description": "Không biết đọc, biết viết (tuy ở tuổi đáng lẽ đã được học).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thất học",
+                "mù chữ"
+            ]
+        },
+        {
+            "word": "vô tình",
+            "_word": "vo tinh",
+            "description": "Không có tình nghĩa, không có tình cảm.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "lạnh lùng",
+                "vô cảm",
+                "thờ ơ"
+            ]
+        },
+        {
+            "word": "buồn thảm",
+            "_word": "buon tham",
+            "description": "Buồn đến mức thảm đạm.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "sầu thảm",
+                "bi thương",
+                "tang tóc"
+            ]
+        },
+        {
+            "word": "vô duyên",
+            "_word": "vo duyen",
+            "description": "Không có duyên, thiếu những gì tế nhị đáng yêu, làm cho không có gì hấp dẫn.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thiếu tế nhị",
+                "phô",
+                "vụng về"
+            ]
+        },
+        {
+            "word": "kịp thời",
+            "_word": "kip thoi",
+            "description": "Đúng lúc, không để chậm trễ.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thời điểm",
+                "đúng lúc"
+            ]
+        },
+        {
+            "word": "bối rối",
+            "_word": "boi roi",
+            "description": "Lúng túng, mất bình tĩnh, không biết nên xử trí thế nào.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "lúng túng",
+                "bối rối",
+                "hoang mang",
+                "lo lắng"
+            ]
+        },
+        {
+            "word": "khờ dại",
+            "_word": "kho dai",
+            "description": "Kém trí khôn, kém tinh nhanh.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "ngờ nghệch",
+                "ngây ngô",
+                "ngu ngốc"
+            ]
+        },
+        {
+            "word": "cực khổ",
+            "_word": "cuc kho",
+            "description": "Cực và khổ (nói khái quát).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "vất vả",
+                "khó nhọc",
+                "gian nan"
+            ]
+        },
+        {
+            "word": "may mắn",
+            "_word": "may man",
+            "description": "May (nói khái quát).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "hên",
+                "may mắn",
+                "thuận lợi"
+            ]
+        },
+        {
+            "word": "rực rỡ",
+            "_word": "ruc ro",
+            "description": "Có màu sắc tươi sáng đẹp đẽ và nổi bật hẳn lên, làm cho ai cũng phải chú ý.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "lộng lẫy",
+                "chói lọi",
+                "tươi sáng"
+            ]
+        },
+        {
+            "word": "nóng tính",
+            "_word": "nong tinh",
+            "description": "Có tính dễ nổi nóng.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "nóng nảy",
+                "bộc trực",
+                "dễ cáu"
+            ]
+        },
+        {
+            "word": "thường xuyên",
+            "_word": "thuong xuyen",
+            "description": "Đều đặn và liên tục, không gián đoạn.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "liên tục",
+                "thường nhật",
+                "thường lệ"
+            ]
+        },
+        {
+            "word": "lâu",
+            "_word": "lau",
+            "description": "Có thời gian kéo dài, chỉ một khoảng thời gian được coi là dài mới kết thúc.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "dài",
+                "lâu dài",
+                "kéo dài"
+            ]
+        },
+        {
+            "word": "hôi",
+            "_word": "hoi",
+            "description": "Có mùi khó ngửi như mùi bọ xít, chuột chù.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "nồng",
+                "hăng",
+                "tanh"
+            ]
+        },
+        {
+            "word": "chậm chạp",
+            "_word": "cham chap",
+            "description": "Chậm (nói khái quát).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "lề mề",
+                "chậm rãi",
+                "ì ạch"
+            ]
+        },
+        {
+            "word": "kẹt xe/tắc đường",
+            "_word": "ket xe/tac duong",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "ùn tắc",
+                "kẹt cứng"
+            ]
+        },
+        {
+            "word": "hài lòng",
+            "_word": "hai long",
+            "description": "Cảm thấy hợp ý vì đáp ứng được đầy đủ những đòi hỏi đã đặt ra.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thoả mãn",
+                "ưng ý",
+                "vừa lòng"
+            ]
+        },
+        {
+            "word": "thiếu thốn",
+            "_word": "thieu thon",
+            "description": "Thiếu nhiều so với nhu cầu.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thiếu hụt",
+                "khan hiếm",
+                "cơ cực"
+            ]
+        },
+        {
+            "word": "khổ công",
+            "_word": "kho cong",
+            "description": "Vất vả, phải bỏ ra quá nhiều sức lực, tâm trí vào công việc nào đó.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "công phu",
+                "tỉ mỉ",
+                "kỳ công"
+            ]
+        },
+        {
+            "word": "hữu nghị",
+            "_word": "huu nghi",
+            "description": "Thân thiện, có tính chất bè bạn (thường nói về quan hệ giữa các nước).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thân thiết",
+                "gần gũi",
+                "đoàn kết"
+            ]
+        },
+        {
+            "word": "đàng hoàng",
+            "_word": "dang hoang",
+            "description": "Có đời sống vật chất đầy đủ, theo mức yêu cầu chung của xã hội.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "tử tế",
+                "đàng hoàng",
+                "đứng đắn"
+            ]
+        },
+        {
+            "word": "hùng vĩ",
+            "_word": "hung vi",
+            "description": "Rộng lớn và gây được ấn tượng của cái mạnh, cái đẹp (thường nói về cảnh vật).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "tráng lệ",
+                "hoành tráng",
+                "vĩ đại"
+            ]
+        },
+        {
+            "word": "bất khuất",
+            "_word": "bat khuat",
+            "description": "Không chịu khuất phục.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "kiên cường",
+                "bất khuất",
+                "anh dũng"
+            ]
+        },
+        {
+            "word": "háo hức",
+            "_word": "hao huc",
+            "description": "Ở trạng thái phấn khởi nghĩ đến và nóng lòng chờ đợi một điều hay, điều vui biết là sắp tới.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "nôn nao",
+                "hồi hộp",
+                "mong chờ"
+            ]
+        },
+        {
+            "word": "rắc rối",
+            "_word": "rac roi",
+            "description": "Có mối quan hệ phức tạp giữa nhiều yếu tố, khiến cho trở nên khó hiểu, khó giải quyết.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "phức tạp",
+                "khó khăn",
+                "nan giải"
+            ]
+        },
+        {
+            "word": "nhõng nhẽo",
+            "_word": "nhong nheo",
+            "description": "Làm ra vẻ không bằng lòng để đòi hỏi người khác phải chiều theo ý mình.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "nũng nịu",
+                "vòi vĩnh",
+                "đỏng đảnh"
+            ]
+        },
+        {
+            "word": "hên/gặp may",
+            "_word": "hen/gap may",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "may mắn",
+                "thuận lợi",
+                "xuôi chèo mát mái"
+            ]
+        },
+        {
+            "word": "đen đủi",
+            "_word": "den dui",
+            "description": "Không gặp điều tốt lành, may mắn.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "xui xẻo",
+                "bất hạnh",
+                "không may"
+            ]
+        },
+        {
+            "word": "xui xẻo",
+            "_word": "xui xeo",
+            "description": "Đen đủi, không gặp may.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "đen đủi",
+                "bất hạnh",
+                "không may"
+            ]
+        },
+        {
+            "word": "long lanh (mắt)",
+            "_word": "long lanh (mat)",
+            "description": "Có ánh sáng phản chiếu trên vật trong suốt, tạo vẻ trong sáng, sinh động.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "lấp lánh",
+                "sáng ngời",
+                "trong veo"
+            ]
+        },
+        {
+            "word": "lạnh lùng",
+            "_word": "lanh lung",
+            "description": "Không hề biểu hiện một chút tình cảm trong quan hệ tiếp xúc với người, với việc.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "vô cảm",
+                "thờ ơ",
+                "dửng dưng"
+            ]
+        },
+        {
+            "word": "kháu khỉnh",
+            "_word": "khau khinh",
+            "description": "Kháu (nói khái quát).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "tinh nghịch",
+                "lém lỉnh",
+                "nghịch ngợm"
+            ]
+        },
+        {
+            "word": "tỉnh táo",
+            "_word": "tinh tao",
+            "description": "Ở trạng thái tỉnh, không buồn ngủ; ở trạng thái vẫn minh mẫn, không để cho tình hình rắc rối, phức tạp tác động đến tư tưởng, tình cảm.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "minh mẫn",
+                "sáng suốt",
+                "lý trí"
+            ]
+        },
+        {
+            "word": "nhộn nhịp (đông người)",
+            "_word": "nhon nhip (dong nguoi)",
+            "description": "Từ gợi tả không khí đông vui, tập nập, do có nhiều người qua lại hoặc cùng tham gia hoạt động.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "tấp nập",
+                "náo nhiệt",
+                "đông đúc"
+            ]
+        },
+        {
+            "word": "không bình đẳng",
+            "_word": "khong binh dang",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "phân biệt đối xử",
+                "bất công",
+                "thiên vị"
+            ]
+        },
+        {
+            "word": "tự hào",
+            "_word": "tu hao",
+            "description": "Lấy làm hài lòng, hãnh diện về cái tốt đẹp mà mình có.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "hãnh diện",
+                "kiêu hãnh",
+                "vinh dự"
+            ]
+        },
+        {
+            "word": "gian dối",
+            "_word": "gian doi",
+            "description": "Có ý lừa lọc, không thật thà ngay thẳng.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "lừa dối",
+                "dối trá",
+                "không trung thực"
+            ]
+        },
+        {
+            "word": "thịnh vượng",
+            "_word": "thinh vuong",
+            "description": "Ở trạng thái đang phát đạt, giàu có lên.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "phồn vinh",
+                "giàu có",
+                "phát đạt"
+            ]
+        },
+        {
+            "word": "lấm lem",
+            "_word": "lam lem",
+            "description": "Bị dính bẩn nhiều chỗ.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "bẩn thỉu",
+                "lôi thôi",
+                "nhếch nhác"
+            ]
+        },
+        {
+            "word": "mệt mỏi",
+            "_word": "met moi",
+            "description": "Mệt đến mức không còn muốn làm gì nữa, thường do kiệt sức.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "rã rời",
+                "uể oải",
+                "kiệt sức"
+            ]
+        },
+        {
+            "word": "thối",
+            "_word": "thoi",
+            "description": "Có mùi khó ngửi.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "ôi thiu",
+                "bốc mùi",
+                "hôi thối"
+            ]
+        },
+        {
+            "word": "thiu",
+            "_word": "thiu",
+            "description": "Thức ăn đã nấu chín bị biến chất và có mùi khó chịu.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "ôi thiu",
+                "bốc mùi",
+                "hỏng"
+            ]
+        },
+        {
+            "word": "nguội",
+            "_word": "nguoi",
+            "description": "Không còn nóng nữa, trở thành có nhiệt độ bình thường.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "lạnh",
+                "nguội lạnh"
+            ]
+        },
+        {
+            "word": "ngán",
+            "_word": "ngan",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "chán",
+                "ngấy",
+                "không muốn ăn"
+            ]
+        },
+        {
+            "word": "mũm mĩm",
+            "_word": "mum mim",
+            "description": "Béo và tròn trĩnh, trông thích mắt.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "phúng phính",
+                "tròn trịa",
+                "đáng yêu"
+            ]
+        },
+        {
+            "word": "dịu dàng",
+            "_word": "diu dang",
+            "description": "Tỏ ra dịu, có tác dụng gây cảm giác dễ chịu, tác động êm nhẹ đến các giác quan hoặc đến tinh thần.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "nhẹ nhàng",
+                "duyên dáng",
+                "âu yếm"
+            ]
+        },
+        {
+            "word": "nhút nhát",
+            "_word": "nhut nhat",
+            "description": "Hay rụt rè, sợ sệt.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "rụt rè",
+                "sợ sệt",
+                "e dè"
+            ]
+        },
+        {
+            "word": "thoăn thoắt",
+            "_word": "thoan thoat",
+            "description": "Cử động rất nhanh nhẹn, nhịp nhàng và liên tục của tay chân.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "nhanh nhẹn",
+                "thoắt",
+                "lanh lẹ"
+            ]
+        },
+        {
+            "word": "trẻ con/con nít",
+            "_word": "tre con/con nit",
+            "description": "Chỉ những đứa trẻ nói chung có ý thân thiết.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "nhóc con",
+                "trẻ thơ"
+            ]
+        },
+        {
+            "word": "ác",
+            "_word": "ac",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "ác độc",
+                "tàn nhẫn",
+                "độc ác"
+            ]
+        },
+        {
+            "word": "ác độc",
+            "_word": "ac doc",
+            "description": "Rát ác, thâm hiểm, thậm chí có phần thích thú trước những đau đớn gây ra cho người khác.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "tàn nhẫn",
+                "tâm địa độc ác",
+                "máu lạnh"
+            ]
+        },
+        {
+            "word": "an ninh",
+            "_word": "an ninh",
+            "description": "Yên ổn về mặt chính trị, về trật tự xã hội. ",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "an toàn",
+                "trật tự",
+                "ổn định"
+            ]
+        },
+        {
+            "word": "anh dũng",
+            "_word": "anh dung",
+            "description": "Dũng cảm quên mình.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "dũng cảm",
+                "gan dạ",
+                "hiên ngang"
+            ]
+        },
+        {
+            "word": "sáng",
+            "_word": "sang",
+            "description": "Có ánh sáng toả ra khiến cho có thể nhìn thấy mọi vật.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "rạng rỡ",
+                "tươi sáng",
+                "chói chang"
+            ]
+        },
+        {
+            "word": "ầm ĩ",
+            "_word": "am i",
+            "description": "Ồn ào, náo động, gây cảm giác khó chịu.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "ồn ào",
+                "náo động",
+                "in ỏi"
+            ]
+        },
+        {
+            "word": "ẩm mốc",
+            "_word": "am moc",
+            "description": "Ẩm và có mốc do thiếu ánh sáng hoặc do không được chăm sóc.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "mốc meo",
+                "ẩm thấp",
+                "xuống cấp"
+            ]
+        },
+        {
+            "word": "ẩm ướt",
+            "_word": "am uot",
+            "description": "Ẩm, do thấm nhiều nước hoặc có chứa nhiều hơi nước (nói khái quát).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "ẩm thấp",
+                "ẩm ướt",
+                "sũng nước"
+            ]
+        },
+        {
+            "word": "ấm áp",
+            "_word": "am ap",
+            "description": "Ấm và gây cảm giác dễ chịu (nói khái quát).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "ấm cúng",
+                "ấm lòng",
+                "ấm áp"
+            ]
+        },
+        {
+            "word": "ấm no",
+            "_word": "am no",
+            "description": "Đầy đủ về vật chất, như đủ ăn, đủ mặc (nói khái quát).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "sung túc",
+                "đầy đủ",
+                "no đủ"
+            ]
+        },
+        {
+            "word": "bao la",
+            "_word": "bao la",
+            "description": "Rộng lớn đến mức như bao trùm lên tất cả.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "mênh mông",
+                "rộng lớn",
+                "bát ngát"
+            ]
+        },
+        {
+            "word": "bảo thủ",
+            "_word": "bao thu",
+            "description": "(Chủ trương) giữ nguyên cái sẵn có, không muốn thay đổi (tuy đang cần có sự thay đổi), không muốn đổi mới.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "cổ hủ",
+                "lạc hậu",
+                "không chịu thay đổi"
+            ]
+        },
+        {
+            "word": "bát ngát",
+            "_word": "bat ngat",
+            "description": "Rộng lớn đến mức tầm mắt không sao bao quát hết được.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "mênh mông",
+                "bao la",
+                "rộng lớn"
+            ]
+        },
+        {
+            "word": "băng giá",
+            "_word": "bang gia",
+            "description": "Lạnh đến mức như xung quanh có băng giá.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "lạnh buốt",
+                "giá rét",
+                "rét đậm"
+            ]
+        },
+        {
+            "word": "bằng",
+            "_word": "bang",
+            "description": "Không hơn, không kém.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "tương đương",
+                "ngang bằng"
+            ]
+        },
+        {
+            "word": "bằng phẳng",
+            "_word": "bang phang",
+            "description": "Có bề mặt không gồ ghề, không lồi lõm.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "phẳng lì",
+                "bằng phẳng",
+                "không gồ ghề"
+            ]
+        },
+        {
+            "word": "bất động",
+            "_word": "bat dong",
+            "description": "Ở trạng thái cơ thể không cử động.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "cứng đờ",
+                "không nhúc nhích",
+                "đứng im"
+            ]
+        },
+        {
+            "word": "bất hiếu",
+            "_word": "bat hieu",
+            "description": "Thái độ đối với cha mẹ tệ bạc, đối xử không phải đạo.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "vô lễ",
+                "bất kính",
+                "ngỗ nghịch"
+            ]
+        },
+        {
+            "word": "bé hơn",
+            "_word": "be hon",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "nhỏ hơn",
+                "thấp hơn",
+                "kém hơn"
+            ]
+        },
+        {
+            "word": "béo",
+            "_word": "beo",
+            "description": "(Cơ thể người, động vật) có nhiều mỡ.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "phì nhiêu",
+                "mập",
+                "ú",
+                "tốt"
+            ]
+        },
+        {
+            "word": "bị động",
+            "_word": "bi dong",
+            "description": "Ở tình thế buộc phải hành động theo sự chi phối của người khác hoặc hoàn cảnh bên ngoài.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "lệ thuộc",
+                "không chủ động"
+            ]
+        },
+        {
+            "word": "bình an",
+            "_word": "binh an",
+            "description": "Ở tình trạng không gặp điều gì không hay xảy ra, làm ảnh hưởng đến sức khoẻ, đời sống.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "yên ổn",
+                "an toàn",
+                "thanh bình"
+            ]
+        },
+        {
+            "word": "bình thường",
+            "_word": "binh thuong",
+            "description": "Không có gì khác thường, không có gì đặc biệt.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thông thường",
+                "đại trà",
+                "không đặc biệt"
+            ]
+        },
+        {
+            "word": "bỏng",
+            "_word": "bong",
+            "description": "Bị tổn thương ở da thịt do chịu tác động của lửa, nhiệt hoặc hoá chất, v.v.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "cháy",
+                "phỏng",
+                "rát"
+            ]
+        },
+        {
+            "word": "bổ ích",
+            "_word": "bo ich",
+            "description": "Có ích, có tác dụng tốt.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "hữu ích",
+                "lợi ích",
+                "có lợi"
+            ]
+        },
+        {
+            "word": "buồn nôn",
+            "_word": "buon non",
+            "description": "Ở trạng thái cảm thấy muốn nôn.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "muốn ọe",
+                "nôn nao"
+            ]
+        },
+        {
+            "word": "bướng bỉnh",
+            "_word": "buong binh",
+            "description": "Bướng (nói khái quát).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "cứng đầu",
+                "ương ngạnh",
+                "ng stubborn"
+            ]
+        },
+        {
+            "word": "cao (người)",
+            "_word": "cao (nguoi)",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "lớn",
+                "to lớn",
+                "vạm vỡ"
+            ]
+        },
+        {
+            "word": "cao (vật)",
+            "_word": "cao (vat)",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "lớn",
+                "to lớn",
+                "khổng lồ"
+            ]
+        },
+        {
+            "word": "cao (nhà)",
+            "_word": "cao (nha)",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "nhiều tầng",
+                "chọc trời"
+            ]
+        },
+        {
+            "word": "cao (núi)",
+            "_word": "cao (nui)",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "hùng vĩ",
+                "dốc",
+                "trập trùng"
+            ]
+        },
+        {
+            "word": "cao quý",
+            "_word": "cao quy",
+            "description": "Có giá trị lớn về mặt tinh thần, rất đáng quý trọng.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "quý báu",
+                "đáng kính",
+                "cao thượng"
+            ]
+        },
+        {
+            "word": "cao tầng",
+            "_word": "cao tang",
+            "description": "Nhà có nhiều tầng.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "nhiều tầng",
+                "chọc trời"
+            ]
+        },
+        {
+            "word": "cao thấp",
+            "_word": "cao thap",
+            "description": "Cao hay thấp, về mặt cần phân định rõ rạch ròi.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "kích thước",
+                "chiều cao"
+            ]
+        },
+        {
+            "word": "cao tốc",
+            "_word": "cao toc",
+            "description": "Có tốc độ cao.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "nhanh",
+                "tốc hành",
+                "siêu tốc"
+            ]
+        },
+        {
+            "word": "cau có",
+            "_word": "cau co",
+            "description": "Có vẻ mặt nhăn nhó vì khó chịu, bực dọc.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "khó chịu",
+                "bực bội",
+                "hằn học"
+            ]
+        },
+        {
+            "word": "cắt nhau",
+            "_word": "cat nhau",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "giao nhau",
+                "cắt ngang"
+            ]
+        },
+        {
+            "word": "cầu kì",
+            "_word": "cau ki",
+            "description": "Không đơn giản, không tự nhiên, mà quá chú trọng về mặt nào đó, khiến cho có vẻ khác thường một cách cố ý.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "phức tạp",
+                "rườm rà",
+                "kén chọn"
+            ]
+        },
+        {
+            "word": "chát",
+            "_word": "chat",
+            "description": "Có vị như vị của chuối xanh.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "chát xít",
+                "se"
+            ]
+        },
+        {
+            "word": "chăm học",
+            "_word": "cham hoc",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "siêng năng",
+                "cần cù",
+                "chỉu học"
+            ]
+        },
+        {
+            "word": "chặt chẽ",
+            "_word": "chat che",
+            "description": "Gắn với nhau rất chặt (nói về cái trừu tượng).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "khăng khít",
+                "gắn bó",
+                "chắc chắn"
+            ]
+        },
+        {
+            "word": "chật chội",
+            "_word": "chat choi",
+            "description": "Chật, gây nên cảm giác bức bối khó chịu.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "chật hẹp",
+                "tù túng",
+                "b좁은"
+            ]
+        },
+        {
+            "word": "chín",
+            "_word": "chin",
+            "description": "(Quả, hạt hoặc hoa) ở vào giai đoạn phát triển đầy đủ nhất, thường có màu đỏ hoặc vàng, có hương thơm, vị ngọt,..",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "chín muồi",
+                "đủ độ",
+                "ngọt"
+            ]
+        },
+        {
+            "word": "chính xác",
+            "_word": "chinh xac",
+            "description": "Hoàn toàn đúng, không sai chút nào.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "đúng đắn",
+                "chuẩn xác",
+                "không sai"
+            ]
+        },
+        {
+            "word": "chủ động",
+            "_word": "chu dong",
+            "description": "Tự mình quyết định hành động, không bị chi phối bởi người khác hoặc hoàn cảnh bên ngoài.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "tự giác",
+                "tiên phong",
+                "năng động"
+            ]
+        },
+        {
+            "word": "chuyên biệt",
+            "_word": "chuyen biet",
+            "description": "Chỉ riêng cho một loại, một thứ hoặc một yêu cầu nhất định.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "đặc biệt",
+                "riêng biệt",
+                "chuyên dụng"
+            ]
+        },
+        {
+            "word": "chuyên cần",
+            "_word": "chuyen can",
+            "description": "Rất chăm chỉ, siêng năng một cách đều đặn.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "siêng năng",
+                "cần cù",
+                "chăm chỉ"
+            ]
+        },
+        {
+            "word": "co dãn",
+            "_word": "co dan",
+            "description": "Co vào và dãn ra (nói khái quát).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "đàn hồi",
+                "co giãn"
+            ]
+        },
+        {
+            "word": "có ích",
+            "_word": "co ich",
+            "description": "Có tác dụng, đem lại điều có lợi, đem lại hiệu quả tốt .",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "hữu ích",
+                "lợi ích",
+                "thiết thực"
+            ]
+        },
+        {
+            "word": "cong",
+            "_word": "cong",
+            "description": "Không thẳng, mà cũng không gãy gập.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "uốn cong",
+                "lượn sóng",
+                "cong queo"
+            ]
+        },
+        {
+            "word": "cô đơn",
+            "_word": "co don",
+            "description": "Chỉ có một mình, không sống cùng với người khác.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "lẻ loi",
+                "bơ vơ",
+                "cô độc"
+            ]
+        },
+        {
+            "word": "cổ đại",
+            "_word": "co dai",
+            "description": "Thời đại xưa nhất trong lịch sử.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "xưa",
+                "cổ xưa",
+                "thượng cổ"
+            ]
+        },
+        {
+            "word": "cổ kính",
+            "_word": "co kinh",
+            "description": "Cổ xưa và có vẻ trang nghiêm.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "trang nghiêm",
+                "uy nghi",
+                "lịch sử"
+            ]
+        },
+        {
+            "word": "cổ truyền",
+            "_word": "co truyen",
+            "description": "Từ xưa truyền lại, vốn có từ xưa.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "truyền thống",
+                "gia truyền",
+                "lâu đời"
+            ]
+        },
+        {
+            "word": "cố định",
+            "_word": "co dinh",
+            "description": "Được giữ nguyên trạng thái, không di động, không biến đổi.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "bất động",
+                "ổn định",
+                "gắn chặt"
+            ]
+        },
+        {
+            "word": "công bằng",
+            "_word": "cong bang",
+            "description": "Theo đúng lẽ phải, không thiên vị.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "công minh",
+                "chính trực",
+                "không thiên vị"
+            ]
+        },
+        {
+            "word": "công cộng",
+            "_word": "cong cong",
+            "description": "Thuộc về mọi người hoặc để phục vụ chung cho mọi người trong xã hội.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "chung",
+                "công",
+                "dành cho mọi người"
+            ]
+        },
+        {
+            "word": "cởi mở",
+            "_word": "coi mo",
+            "description": "Bày tỏ tâm tình một cách dễ dàng và hồn nhiên.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thẳng thắn",
+                "chân thành",
+                "cởi mở"
+            ]
+        },
+        {
+            "word": "cụ thể",
+            "_word": "cu the",
+            "description": "Có hình thể, có tồn tại dưới dạng vật chất mà giác quan con người có thể nhận biết được; phân biệt với trừu tượng.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "chi tiết",
+                "rõ ràng",
+                "cặn kẽ"
+            ]
+        },
+        {
+            "word": "dai",
+            "_word": "dai",
+            "description": "Có khả năng giữ nguyên tính toàn khối khi bị tác động, khó làm cho đứt, cho rời ra từng mảnh.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "bền",
+                "chắc",
+                "dẻo dai"
+            ]
+        },
+        {
+            "word": "dài",
+            "_word": "dai",
+            "description": "Có khoảng cách bao nhiêu đó từ đầu này đến đầu kia, theo chiều nằm ngang và thường là có kích thước lớn nhất (gọi là chiều dài) của vật.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "dài dằng dặc",
+                "thẳng",
+                "dài ngoẵng"
+            ]
+        },
+        {
+            "word": "dài hạn",
+            "_word": "dai han",
+            "description": "Có thời hạn tương đối dài; phân biệt với ngắn hạn, trung hạn.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "lâu dài",
+                "dài lâu",
+                "trường kỳ"
+            ]
+        },
+        {
+            "word": "dài hơn",
+            "_word": "dai hon",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "dài hơn nữa",
+                "vượt trội hơn"
+            ]
+        },
+        {
+            "word": "dài nhất",
+            "_word": "dai nhat",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "dài nhất quả đất",
+                "không gì dài hơn"
+            ]
+        },
+        {
+            "word": "gian lận",
+            "_word": "gian lan",
+            "description": "Có hành vi dối trá, lừa lọc.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "lừa đảo",
+                "gian dối",
+                "xảo trá"
+            ]
+        },
+        {
+            "word": "dẻo",
+            "_word": "deo",
+            "description": "Dễ dập mỏng, dễ uốn cong,v.v mà không bị vỡ, bị gãy.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "mềm",
+                "dẻo dai",
+                "uyển chuyển"
+            ]
+        },
+        {
+            "word": "dễ chịu",
+            "_word": "de chiu",
+            "description": "Có cảm giác hoặc làm cho có cảm giác êm dịu, thoải mái.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thoải mái",
+                "dễ dàng",
+                "thoải mái"
+            ]
+        },
+        {
+            "word": "dễ thương",
+            "_word": "de thuong",
+            "description": "Dễ gây được tình cảm mến thương ở người khác.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "đáng yêu",
+                "xinh xắn",
+                "ngộ nghĩnh"
+            ]
+        },
+        {
+            "word": "dọc",
+            "_word": "doc",
+            "description": "Theo chiều dài.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thẳng đứng",
+                "theo chiều dọc"
+            ]
+        },
+        {
+            "word": "đáng quý",
+            "_word": "dang quy",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "quý báu",
+                "đáng trân trọng",
+                "đáng giá"
+            ]
+        },
+        {
+            "word": "đặc biệt",
+            "_word": "dac biet",
+            "description": "Khác hẳn những trường hợp thông thường về tính chất, chức năng hoặc mức độ.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "riêng biệt",
+                "khác biệt",
+                "đặc thù"
+            ]
+        },
+        {
+            "word": "đắt đỏ",
+            "_word": "dat do",
+            "description": "Có giá cao hơn nhiều so với bình thường, thường do khan hiếm.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "đắt",
+                "xa xỉ",
+                "cao cấp"
+            ]
+        },
+        {
+            "word": "đầu tiên",
+            "_word": "dau tien",
+            "description": "Lúc đầu (thời điểm sự việc xảy ra trước nhất, so với những sự việc tiếp sau đó).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "ban đầu",
+                "khởi đầu",
+                "sơ khai"
+            ]
+        },
+        {
+            "word": "đầy",
+            "_word": "day",
+            "description": "Ở trạng thái không còn chứa thêm được nữa, thêm vào là tràn ra.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "đầy ắp",
+                "tràn đầy",
+                "no nê"
+            ]
+        },
+        {
+            "word": "đầy đủ",
+            "_word": "day du",
+            "description": "Có đủ tất cả, không thiếu gì so với yêu cầu.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "hoàn chỉnh",
+                "tươm tất",
+                "đủ điều kiện"
+            ]
+        },
+        {
+            "word": "đen láy (như đen nhánh)",
+            "_word": "den lay (nhu den nhanh)",
+            "description": "Đen ánh lên.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "đen bóng",
+                "đen tuyền",
+                "đen thũi"
+            ]
+        },
+        {
+            "word": "đẹp đẽ (như đẹp)",
+            "_word": "dep de (nhu dep)",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "xinh đẹp",
+                "lộng lẫy",
+                "tuyệt sắc"
+            ]
+        },
+        {
+            "word": "đẹp mê hồn",
+            "_word": "dep me hon",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "quyến rũ",
+                "hấp dẫn",
+                "ngất ngây"
+            ]
+        },
+        {
+            "word": "đều đặn",
+            "_word": "deu dan",
+            "description": "Rất đều (nói khái quát).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "nhịp nhàng",
+                "đều đều",
+                "ổn định"
+            ]
+        },
+        {
+            "word": "độc hại",
+            "_word": "doc hai",
+            "description": "Có khả năng làm hại sức khoẻ hoặc tinh thần.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "nguy hiểm",
+                "độc",
+                "tiêu cực"
+            ]
+        },
+        {
+            "word": "đối diện",
+            "_word": "doi dien",
+            "description": "Ở vị trí quay mặt vào nhau.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "đối mặt",
+                "trực diện",
+                "ngang nhau"
+            ]
+        },
+        {
+            "word": "độc lập",
+            "_word": "doc lap",
+            "description": "Tự mình tồn tại, hoạt động, không nương tựa hoặc phụ thuộc vào ai, vào cái gì khác.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "tự chủ",
+                "tự cường",
+                "không lệ thuộc"
+            ]
+        },
+        {
+            "word": "đối xứng",
+            "_word": "doi xung",
+            "description": "Có tính chất trùng với chính nó qua một trục, một điểm hoặc một mặt phẳng.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "cân đối",
+                "hài hòa",
+                "đồng nhất"
+            ]
+        },
+        {
+            "word": "đông lạnh",
+            "_word": "dong lanh",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "lạnh giá",
+                "băng giá",
+                "đóng băng"
+            ]
+        },
+        {
+            "word": "đơn giản",
+            "_word": "don gian",
+            "description": "Không có nhiều thành phần hoặc nhiều mặt, không rắc rối.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "dễ dàng",
+                "dễ hiểu",
+                "không phức tạp"
+            ]
+        },
+        {
+            "word": "e thẹn",
+            "_word": "e then",
+            "description": "Ngại ngùng và hay thẹn.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "ngượng ngùng",
+                "bẽn lẽn",
+                "xấu hổ"
+            ]
+        },
+        {
+            "word": "ế ẩm",
+            "_word": "e am",
+            "description": "(Hàng hoá) ế (nói khái quát).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "ảm đạm",
+                "trì trệ",
+                "không bán được"
+            ]
+        },
+        {
+            "word": "gan dạ",
+            "_word": "gan da",
+            "description": "Có tinh thần không lùi bước trước nguy hiểm, không sợ nguy hiểm.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "dũng cảm",
+                "anh hùng",
+                "mạnh mẽ"
+            ]
+        },
+        {
+            "word": "gan lì",
+            "_word": "gan li",
+            "description": "Gan đến mức như trơ ra, không còn biết sợ là gì.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "liều lĩnh",
+                "bạt mạng",
+                "không sợ chết"
+            ]
+        },
+        {
+            "word": "gắn bó",
+            "_word": "gan bo",
+            "description": "Có quan hệ hoặc làm cho có quan hệ về tinh thần, tình cảm khó tách rời.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thân thiết",
+                "gần gũi",
+                "không rời"
+            ]
+        },
+        {
+            "word": "gần gũi",
+            "_word": "gan gui",
+            "description": "Gần nhau, về quan hệ tinh thần, tình cảm (nói khái quát).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thân thiết",
+                "gần gũi",
+                "thân tình"
+            ]
+        },
+        {
+            "word": "gầy (miền Nam: ốm)",
+            "_word": "gay (mien nam: om)",
+            "description": "(cơ thể người và động vật) ở trạng thái có ít mỡ và thịt.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "ốm yếu",
+                "gầy gò",
+                "mảnh khảnh"
+            ]
+        },
+        {
+            "word": "gian khổ",
+            "_word": "gian kho",
+            "description": "Gian nan, vất vả và khổ cực.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "vất vả",
+                "cực nhọc",
+                "khó nhọc",
+                "lao lực",
+                "nhọc nhằn"
+            ]
+        },
+        {
+            "word": "gián tiếp",
+            "_word": "gian tiep",
+            "description": "Không có quan hệ thẳng với đối tượng tiếp xúc mà phải qua khâu trung gian.",
+            "tl": "Tính từ",
+            "synset_vi": []
+        },
+        {
+            "word": "giàu có",
+            "_word": "giau co",
+            "description": "Giàu, có nhiều tiền của (nói khái quát).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "giàu sang",
+                "sung túc",
+                "phong lưu",
+                "đầy đủ",
+                "khá giả"
+            ]
+        },
+        {
+            "word": "giỏi",
+            "_word": "gioi",
+            "description": "Có trình độ cao, đáng được khâm phục, khen ngợi.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "tài giỏi",
+                "xuất sắc",
+                "tài năng",
+                "khá",
+                "cừ khôi"
+            ]
+        },
+        {
+            "word": "giống nhau",
+            "_word": "giong nhau",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "tương tự",
+                "giống hệt",
+                "như nhau",
+                "y hệt"
+            ]
+        },
+        {
+            "word": "gọn gàng",
+            "_word": "gon gang",
+            "description": "Rất gọn, không có gì vướng víu (nói khái quát).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "ngăn nắp",
+                "gọn ghẽ",
+                "sạch sẽ",
+                "tinh tươm",
+                "tươm tất"
+            ]
+        },
+        {
+            "word": "hài hước",
+            "_word": "hai huoc",
+            "description": "Vui đùa, gây cười.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "dí dỏm",
+                "tếu táo",
+                "buồn cười",
+                "khôi hài"
+            ]
+        },
+        {
+            "word": "hạn hán",
+            "_word": "han han",
+            "description": "Hạn, nắng hạn (nói khái quát).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "khô hạn"
+            ]
+        },
+        {
+            "word": "hăng hái",
+            "_word": "hang hai",
+            "description": "Không nề hà, có lòng nhiệt tình và thái độ tích cực trong công việc.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "nhiệt tình",
+                "sôi nổi",
+                "hăng say",
+                "xung phong"
+            ]
+        },
+        {
+            "word": "héo",
+            "_word": "heo",
+            "description": "(Cỏ cây, hoa lá) mềm rũ ra và tóp lại vì thiếu nước, vì nắng nóng.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "khô héo",
+                "héo úa",
+                "tàn úa"
+            ]
+        },
+        {
+            "word": "hiện đại",
+            "_word": "hien dai",
+            "description": "Thuộc về thời đại ngày nay.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "tiên tiến",
+                "mới mẻ",
+                "hiện hành"
+            ]
+        },
+        {
+            "word": "hiếu thảo",
+            "_word": "hieu thao",
+            "description": "Có lòng kính yêu cha mẹ.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "hiếu thuận",
+                "lễ phép",
+                "biết điều"
+            ]
+        },
+        {
+            "word": "hòa bình",
+            "_word": "hoa binh",
+            "description": "Tình trạng yên ổn, không có chiến tranh.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thái bình",
+                "yên bình"
+            ]
+        },
+        {
+            "word": "hoảng sợ",
+            "_word": "hoang so",
+            "description": "Ở trạng thái mất tự chủ, đột ngột do sợ hãi trước sự đe doạ bất ngờ.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "sợ hãi",
+                "kinh hoàng",
+                "hoảng hốt",
+                "kinh sợ"
+            ]
+        },
+        {
+            "word": "hỏng",
+            "_word": "hong",
+            "description": "Ở tình trạng không thể dùng được nữa.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "hư",
+                "hư hại",
+                "thối",
+                "rách"
+            ]
+        },
+        {
+            "word": "hồi hộp",
+            "_word": "hoi hop",
+            "description": "Ở trong trạng thái lòng luôn bồi hồi, lo lắng không yên trước cái gì sắp đến mà mình đang hết sức quan tâm.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "lo lắng",
+                "bồn chồn",
+                "nôn nao"
+            ]
+        },
+        {
+            "word": "hợp lí",
+            "_word": "hop li",
+            "description": "Đúng lẽ phải, phù hợp với logic.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "hợp lý",
+                "chính đáng",
+                "thuyết phục"
+            ]
+        },
+        {
+            "word": "hung ác",
+            "_word": "hung ac",
+            "description": "Dữ tợn và tàn ác.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "tàn bạo",
+                "tàn nhẫn",
+                "độc ác",
+                "ác độc"
+            ]
+        },
+        {
+            "word": "ít",
+            "_word": "it",
+            "description": "Có số lượng nhỏ hoặc ở mức thấp.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "hiếm",
+                "khan hiếm",
+                "vắng vẻ"
+            ]
+        },
+        {
+            "word": "ít hơn",
+            "_word": "it hon",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": []
+        },
+        {
+            "word": "ít nhất",
+            "_word": "it nhat",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": []
+        },
+        {
+            "word": "kém",
+            "_word": "kem",
+            "description": "Ở trình độ hoặc khả năng thấp hơn so với cái trung bình.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "yếu",
+                "dở",
+                "tồi",
+                "thua kém",
+                "lẹt đẹt"
+            ]
+        },
+        {
+            "word": "keo kiệt",
+            "_word": "keo kiet",
+            "description": "Hà tiện tới mức quá quắt, chỉ biết bo bo giữ của.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "ki bo",
+                "bủn xỉn",
+                "ích kỷ"
+            ]
+        },
+        {
+            "word": "khác",
+            "_word": "khac",
+            "description": "Không có những nét chung, những nét tương tự nên có thể phân biệt được với nhau khi so sánh.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "khác biệt",
+                "khác nhau",
+                "khác hẳn",
+                "khác xa"
+            ]
+        },
+        {
+            "word": "hoang mang",
+            "_word": "hoang mang",
+            "description": "Ở trạng thái luôn thấy bất ổn khiến cho lo lắng, dao động, không biết tin theo cái gì và nên xử trí ra sao.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "bối rối",
+                "lúng túng",
+                "hoang loạn"
+            ]
+        },
+        {
+            "word": "khéo",
+            "_word": "kheo",
+            "description": "Biết làm những động tác thích hợp trong lao động để tạo ra những sản phẩm đẹp, tinh tế.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "khéo léo",
+                "tinh xảo",
+                "tài hoa"
+            ]
+        },
+        {
+            "word": "khiêm tốn",
+            "_word": "khiem ton",
+            "description": "Có ý thức và thái độ đúng mức trong việc đánh giá bản thân, không tự đề cao, không kiêu căng, tự phụ.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "giản dị",
+                "lịch sự",
+                "điềm đạm"
+            ]
+        },
+        {
+            "word": "khó khăn",
+            "_word": "kho khan",
+            "description": "Khó, có nhiều trở ngại hoặc thiếu thốn (nói khái quát).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "gian nan",
+                "vất vả",
+                "cực nhọc",
+                "trắc trở"
+            ]
+        },
+        {
+            "word": "khoẻ mạnh",
+            "_word": "khoe manh",
+            "description": "Có sức khoẻ tốt, không ốm yếu, không bệnh tật.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "khỏe khoắn",
+                "cường tráng",
+                "dẻo dai",
+                "sức khỏe"
+            ]
+        },
+        {
+            "word": "khô héo",
+            "_word": "kho heo",
+            "description": "Khô cạn nhựa sống và héo đi.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "héo úa",
+                "tàn úa",
+                "khô cằn"
+            ]
+        },
+        {
+            "word": "khổng lồ",
+            "_word": "khong lo",
+            "description": "Có kích thước, quy mô, khối lượng lớn gấp nhiều lần so với bình thường.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "to lớn",
+                "vĩ đại",
+                "bao la",
+                "đồ sộ"
+            ]
+        },
+        {
+            "word": "khổ",
+            "_word": "kho",
+            "description": "Quá khó khăn, thiếu thốn về vật chất hoặc vất vả về thể xác hay bị giày vò, đau đớn về tinh thần.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "đau khổ",
+                "khốn khổ",
+                "cực khổ",
+                "vất vả"
+            ]
+        },
+        {
+            "word": "khúc khuỷu",
+            "_word": "khuc khuyu",
+            "description": "Có nhiều đoạn gấp khúc ngắn nối nhau liên tiếp.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "ngoằn ngoèo",
+                "uốn lượn",
+                "cong queo"
+            ]
+        },
+        {
+            "word": "kì diệu",
+            "_word": "ki dieu",
+            "description": "Có cái gì vừa rất lạ lùng như không cắt nghĩa nổi, vừa làm cho người ta phải ca ngợi, phải khâm phục.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thần kỳ",
+                "huyền diệu",
+                "kỳ lạ",
+                "phi thường"
+            ]
+        },
+        {
+            "word": "kì lạ",
+            "_word": "ki la",
+            "description": "Rất lạ, tới mức không thể ngờ được.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "lạ lùng",
+                "kỳ dị",
+                "bất thường"
+            ]
+        },
+        {
+            "word": "kiên quyết",
+            "_word": "kien quyet",
+            "description": "Tỏ ra hết sức cứng rắn, quyết làm bằng được điều đã định, dù khó khăn trở ngại đến mấy cũng không thay đổi.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "quyết tâm",
+                "quyết đoán",
+                "dứt khoát"
+            ]
+        },
+        {
+            "word": "kiên trì (giống: kiên nhẫn)",
+            "_word": "kien tri (giong: kien nhan)",
+            "description": "Không thay đổi ý định, ý chí để làm việc gì đó đến cùng, mặc dù gặp khó kh\năn, trở lực.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "bền bỉ",
+                "kiên định",
+                "nhẫn nại"
+            ]
+        },
+        {
+            "word": "kiêu (kiêu căng, kiêu xa)",
+            "_word": "kieu (kieu cang, kieu xa)",
+            "description": "Tự cho mình là hơn người.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "ngạo mạn",
+                "tự cao tự đại",
+                "khinh người"
+            ]
+        },
+        {
+            "word": "kinh ngạc",
+            "_word": "kinh ngac",
+            "description": "Hết sức ngạc nhiên, sửng sốt trước điều hoàn toàn không ngờ.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "ngạc nhiên",
+                "sửng sốt",
+                "kinh hoàng",
+                "bàng hoàng"
+            ]
+        },
+        {
+            "word": "lạc quan",
+            "_word": "lac quan",
+            "description": "Có cách nhìn, thái độ tin tưởng ở tương lai tốt đẹp.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "tích cực",
+                "yêu đời",
+                "vui vẻ"
+            ]
+        },
+        {
+            "word": "lặng lẽ",
+            "_word": "lang le",
+            "description": "Im lặng, không lên tiếng, không có tiếng động, tiếng ồn.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "yên lặng",
+                "im lìm",
+                "vắng vẻ"
+            ]
+        },
+        {
+            "word": "lẫn lộn",
+            "_word": "lan lon",
+            "description": "Lẫn vào với nhau, không còn phân biệt được nữa.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "hỗn loạn",
+                "hỗn độn",
+                "lộn xộn"
+            ]
+        },
+        {
+            "word": "liên tục",
+            "_word": "lien tuc",
+            "description": "Tiếp nối nhau thành một quá trình không bị gián đoạn.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "liên tiếp",
+                "không ngừng",
+                "suốt"
+            ]
+        },
+        {
+            "word": "liều lĩnh",
+            "_word": "lieu linh",
+            "description": "(Làm việc gì) bất chấp nguy hiểm hoặc hậu quả tai hại có thể xảy ra.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "liều mạng",
+                "mạo hiểm",
+                "táo bạo"
+            ]
+        },
+        {
+            "word": "liều mình",
+            "_word": "lieu minh",
+            "description": "Liều, không sợ thiệt đến thân mình, không sợ phải hi sinh tính mạng.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "hy sinh",
+                "xả thân",
+                "liều chết"
+            ]
+        },
+        {
+            "word": "lo sợ",
+            "_word": "lo so",
+            "description": "Lo lắng và có phần sợ hãi.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "sợ hãi",
+                "e ngại",
+                "băn khoăn"
+            ]
+        },
+        {
+            "word": "loạn thị",
+            "_word": "loan thi",
+            "description": "(Mắt) không nhìn rõ được như nhau ở các hướng, do bị tật.",
+            "tl": "Tính từ",
+            "synset_vi": []
+        },
+        {
+            "word": "lơ lửng",
+            "_word": "lo lung",
+            "description": "Ở trạng thái di động nhẹ ở khoảng giữa lưng chừng, không dính bám vào đâu.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "lửng lơ",
+                "đung đưa",
+                "bay bổng"
+            ]
+        },
+        {
+            "word": "lúng túng",
+            "_word": "lung tung",
+            "description": "Không làm chủ được tình hình nên không biết hành động, xử trí như thế nào.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "bối rối",
+                "ngượng ngùng",
+                "luống cuống"
+            ]
+        },
+        {
+            "word": "lười",
+            "_word": "luoi",
+            "description": "Ở trạng thái không thích, ngại làm việc, ít chịu cố gắng.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "lười biếng",
+                "lười nhác",
+                "ì ạch"
+            ]
+        },
+        {
+            "word": "mạch lạc",
+            "_word": "mach lac",
+            "description": "Trật tự hợp lí giữa các ý, các phần trong nội dung diễn đạt.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "rõ ràng",
+                "súc tích",
+                "dễ hiểu",
+                "logic"
+            ]
+        },
+        {
+            "word": "mạnh bạo (giống: mạnh dạn)",
+            "_word": "manh bao (giong: manh dan)",
+            "description": "Không sợ, dám nghĩ dám làm những việc thấy là đáng làm, tuy biết đó là việc người ta thường e ngại.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "dũng cảm",
+                "gan dạ",
+                "táo bạo"
+            ]
+        },
+        {
+            "word": "mạnh mẽ",
+            "_word": "manh me",
+            "description": "Có nhiều sức lực, tiềm lực (nói khái quát).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "mạnh khỏe",
+                "cường tráng",
+                "quyết liệt"
+            ]
+        },
+        {
+            "word": "màu cam",
+            "_word": "mau cam",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": []
+        },
+        {
+            "word": "màu đen",
+            "_word": "mau den",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": []
+        },
+        {
+            "word": "màu đỏ",
+            "_word": "mau do",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": []
+        },
+        {
+            "word": "màu nâu",
+            "_word": "mau nau",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": []
+        },
+        {
+            "word": "màu nhiệm",
+            "_word": "mau nhiem",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": []
+        },
+        {
+            "word": "màu trắng",
+            "_word": "mau trang",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": []
+        },
+        {
+            "word": "màu xanh da trời",
+            "_word": "mau xanh da troi",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": []
+        },
+        {
+            "word": "màu xanh lá cây",
+            "_word": "mau xanh la cay",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": []
+        },
+        {
+            "word": "mềm mại",
+            "_word": "mem mai",
+            "description": "Mềm và gợi cảm giác dễ chịu khi sờ đến.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "mềm mỏng",
+                "uyển chuyển",
+                "nhẹ nhàng",
+                "êm ái"
+            ]
+        },
+        {
+            "word": "mênh mông",
+            "_word": "menh mong",
+            "description": "Rất rộng lớn, đến mức như không có giới hạn.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "bao la",
+                "bát ngát",
+                "rộng lớn",
+                "thênh thang"
+            ]
+        },
+        {
+            "word": "mồ côi",
+            "_word": "mo coi",
+            "description": "Bị mất cha và/hoặc mẹ khi còn bé dại.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "bất hạnh",
+                "côi cút",
+                "lẻ loi"
+            ]
+        },
+        {
+            "word": "mới",
+            "_word": "moi",
+            "description": "Vừa được làm ra hay là chưa dùng hoặc dùng chưa lâu, còn giữ nguyên phẩm chất giá trị.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "mới tinh",
+                "mới toanh",
+                "tươi mới"
+            ]
+        },
+        {
+            "word": "muộn",
+            "_word": "muon",
+            "description": "Sau thời điểm quy định hay sau thời điểm thường lệ tương đối lâu.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "trễ",
+                "chậm",
+                "quá giờ"
+            ]
+        },
+        {
+            "word": "náo động, náo nhiệt",
+            "_word": "nao dong, nao nhiet",
+            "description": "Xôn xao, ồn ào khắp cả lên.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "nhộn nhịp",
+                "náo nức",
+                "sôi động",
+                "ồn ào"
+            ]
+        },
+        {
+            "word": "nằm",
+            "_word": "nam",
+            "description": "Ngả thân mình trên một vật nào đó, thường để nghỉ.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "ngả lưng",
+                "nằm nghỉ"
+            ]
+        },
+        {
+            "word": "nặng hơn",
+            "_word": "nang hon",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": []
+        },
+        {
+            "word": "ngắn",
+            "_word": "ngan",
+            "description": "Có chiều dài dưới mức bình thường, hoặc không bằng so với những vật khác.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "ngắn ngủn",
+                "cộc",
+                "tắt"
+            ]
+        },
+        {
+            "word": "ngắn nhất",
+            "_word": "ngan nhat",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": []
+        },
+        {
+            "word": "ngây thơ",
+            "_word": "ngay tho",
+            "description": "Không hiểu biết hoặc rất ít hiểu biết về đời, do còn non trẻ, ít kinh nghiệm.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "trong sáng",
+                "chân thật",
+                "ngây ngô"
+            ]
+        },
+        {
+            "word": "nghiêm khắc",
+            "_word": "nghiem khac",
+            "description": "Rất nghiêm, không dễ dàng tha thứ hoặc bỏ qua một sai sót nào.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "nghiêm nghị",
+                "khắt khe",
+                "nghiêm minh"
+            ]
+        },
+        {
+            "word": "nghiêm túc",
+            "_word": "nghiem tuc",
+            "description": "Có ý thức coi trọng đúng mức những yêu cầu đối với mình, biểu hiện ở thái độ, hành động.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "nghiêm chỉnh",
+                "chỉnh chu",
+                "đàng hoàng"
+            ]
+        },
+        {
+            "word": "ngoan ngoãn",
+            "_word": "ngoan ngoan",
+            "description": "Dễ bảo, sẵn sàng nghe và làm theo lời người trên.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "vâng lời",
+                "biết điều",
+                "lễ phép"
+            ]
+        },
+        {
+            "word": "ngoằn ngoèo",
+            "_word": "ngoan ngoeo",
+            "description": "Từ gợi tả dáng vẻ cong queo uốn lượn theo nhiều hướng khác nhau.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "khúc khuỷu",
+                "uốn lượn",
+                "cong queo"
+            ]
+        },
+        {
+            "word": "ngon miệng",
+            "_word": "ngon mieng",
+            "description": "(ăn) thấy ngon, biết ngon.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thơm ngon",
+                "hấp dẫn",
+                "béo ngậy"
+            ]
+        },
+        {
+            "word": "ngộ nghĩnh",
+            "_word": "ngo nghinh",
+            "description": "Có những nét hay hay, khác lạ, buồn cười một cách đáng yêu.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "dễ thương",
+                "đáng yêu",
+                "hài hước"
+            ]
+        },
+        {
+            "word": "nguệch ngoạc",
+            "_word": "nguech ngoac",
+            "description": "(nét viết hoặc vẽ) xiên xẹo, méo mó, do chưa thạo hoặc do vội vàng, cẩu thả.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "loằng ngoằng",
+                "xiên xẹo",
+                "méo mó"
+            ]
+        },
+        {
+            "word": "nguy hiểm",
+            "_word": "nguy hiem",
+            "description": "Có thể gây tai hại lớn cho con người.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "nguy nan",
+                "nguy kịch",
+                "nguy hại"
+            ]
+        },
+        {
+            "word": "ngược lại",
+            "_word": "nguoc lai",
+            "description": "Tổ hợp biểu thị điều sắp nêu ra (hoặc hàm ý muốn nói) có nội dung hoặc có quan hệ ngược lại với điều vừa nói đến.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "trái ngược",
+                "khác biệt",
+                "đối lập"
+            ]
+        },
+        {
+            "word": "nhạy cảm",
+            "_word": "nhay cam",
+            "description": "Có khả năng nhận biết nhanh và tinh bằng các giác quan, bằng cảm tính.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "tinh tế",
+                "nhạy bén",
+                "sâu sắc"
+            ]
+        },
+        {
+            "word": "nhân hậu",
+            "_word": "nhan hau",
+            "description": "Hiền và giàu lòng thương người, chỉ muốn đem lại những điều tốt lành cho người khác.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "tốt bụng",
+                "hiền lành",
+                "tử tế",
+                "bao dung"
+            ]
+        },
+        {
+            "word": "nhẹ hơn",
+            "_word": "nhe hon",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": []
+        },
+        {
+            "word": "nhẹ nhàng",
+            "_word": "nhe nhang",
+            "description": "Tỏ ra nhẹ, có vẻ nhẹ, không gây cảm giác gì nặng nề hoặc khó chịu.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "dịu dàng",
+                "êm ái",
+                "thanh thoát"
+            ]
+        },
+        {
+            "word": "nhiều hơn",
+            "_word": "nhieu hon",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": []
+        },
+        {
+            "word": "nhỏ/ nhỏ bé",
+            "_word": "nho/ nho be",
+            "description": "Có kích thước, số lượng, phạm vi, quy mô hoặc giá trị, ý nghĩa không đán kể, hay kém hơn so với số lớn những cái khác cùng loại.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "nhỏ xíu",
+                "bé tí",
+                "không đáng kể"
+            ]
+        },
+        {
+            "word": "nhỏ hơn",
+            "_word": "nho hon",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": []
+        },
+        {
+            "word": "nhỏ tuổi",
+            "_word": "nho tuoi",
+            "description": "Ít tuổi (thường nói về tuổi thiếu niên).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "trẻ tuổi",
+                "non trẻ"
+            ]
+        },
+        {
+            "word": "nhọn",
+            "_word": "nhon",
+            "description": "(vật) có phần đầu nhỏ dần lại, dễ đâm thủng vật khác.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "sắc bén",
+                "nhọn hoắt",
+                "sắc nhọn"
+            ]
+        },
+        {
+            "word": "nhọn hoắt",
+            "_word": "nhon hoat",
+            "description": "Rất nhọn, đến mức gây cảm giác sợ.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "sắc nhọn",
+                "nhọn bén",
+                "thâm hiểm"
+            ]
+        },
+        {
+            "word": "no",
+            "_word": "no",
+            "description": "Ở trạng thái nhu cầu sinh lí về ăn uống được thoả mãn đầy đủ.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "ấm bụng",
+                "đầy bụng"
+            ]
+        },
+        {
+            "word": "nổi bật",
+            "_word": "noi bat",
+            "description": "Nổi lên rất rõ khiến dễ dàng nhận thấy ngay.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "nổi trội",
+                "ấn tượng",
+                "đặc sắc"
+            ]
+        },
+        {
+            "word": "nội tiếp",
+            "_word": "noi tiep",
+            "description": "(hình tròn, hình cầu) nằm trong một đa giác hoặc đa diện và tiếp xúc với mọi cạnh hoặc mọi mặt của đa giác hoặc đa diện đó.",
+            "tl": "Tính từ",
+            "synset_vi": []
+        },
+        {
+            "word": "ốm đau",
+            "_word": "om dau",
+            "description": "Có bệnh.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "bệnh tật",
+                "đau yếu"
+            ]
+        },
+        {
+            "word": "ổn định",
+            "_word": "on dinh",
+            "description": "Ở vào hay làm cho ở vào trạng thái không còn có những biến động, thay đổi đáng kể.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "ổn thoả",
+                "vững chắc",
+                "bền vững"
+            ]
+        },
+        {
+            "word": "phổ biến",
+            "_word": "pho bien",
+            "description": "Thường thấy, thường gặp ở nhiều nơi, nhiều người.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "phổ thông",
+                "phổ cập",
+                "thông dụng"
+            ]
+        },
+        {
+            "word": "phù hợp",
+            "_word": "phu hop",
+            "description": "Hợp với nhau, ăn khớp với nhau.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thích hợp",
+                "phù đương"
+            ]
+        },
+        {
+            "word": "phức tạp",
+            "_word": "phuc tap",
+            "description": "Có nhiều sự rắc rối khó hiểu, khó nắm bắt, khó giải quyết.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "rắc rối",
+                "nan giải",
+                "khó khăn"
+            ]
+        },
+        {
+            "word": "quan trọng",
+            "_word": "quan trong",
+            "description": "Có ý nghĩa, tác dụng hoặc có ảnh hưởng lớn, đáng được coi trọng.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thiết yếu",
+                "cần thiết",
+                "chủ yếu"
+            ]
+        },
+        {
+            "word": "quý giá",
+            "_word": "quy gia",
+            "description": "Có giá trị lớn.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "đắt giá",
+                "quý báu"
+            ]
+        },
+        {
+            "word": "quý hiếm",
+            "_word": "quy hiem",
+            "description": "Quý giá và hiếm có.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "khan hiếm",
+                "hiếm hoi"
+            ]
+        },
+        {
+            "word": "rách",
+            "_word": "rach",
+            "description": "Ở trạng thái không còn nguyên, có những chỗ bị tách, bị thủng ra.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "rách nát",
+                "rách bươm"
+            ]
+        },
+        {
+            "word": "riêng biệt",
+            "_word": "rieng biet",
+            "description": "Riêng một mình, không có quan hệ với những cái khác cùng loại.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "riêng rẽ",
+                "tách biệt"
+            ]
+        },
+        {
+            "word": "riêng tư",
+            "_word": "rieng tu",
+            "description": "Riêng của cá nhân.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "cá nhân",
+                "bí mật"
+            ]
+        },
+        {
+            "word": "rõ ràng",
+            "_word": "ro rang",
+            "description": "Rõ đến mức ai cũng có thể thấy, có thể nhận biết được một cách dễ dàng.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "rõ rệt",
+                "hiển nhiên",
+                "dễ thấy"
+            ]
+        },
+        {
+            "word": "róc rách",
+            "_word": "roc rach",
+            "description": "Mô phỏng âm thanh của tiếng nước chảy nhẹ qua kẽ đá.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "rì rào",
+                "róc rích"
+            ]
+        },
+        {
+            "word": "rón rén",
+            "_word": "ron ren",
+            "description": "Gợi tả dáng điệu của động tác cố làm cho thật nhẹ nhàng vì sợ gây tiếng động hoặc điều gì thất thố.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "nhẹ nhàng",
+                "rón ra rón rén"
+            ]
+        },
+        {
+            "word": "rộng lớn",
+            "_word": "rong lon",
+            "description": "Có diện tích hoặc phạm vi rất lớn (nói khái quát).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "mênh mông",
+                "bao la",
+                "bát ngát"
+            ]
+        },
+        {
+            "word": "rộng rãi",
+            "_word": "rong rai",
+            "description": "Chỉ căn phòng rộng rãi; chỉ sự hào phóng, chi tiêu rộng rãi; chỉ việc đem đến cho nhiều người, nhiều nơi biết: công bố rộng rãi.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thoáng đãng",
+                "phóng khoáng",
+                "phổ biến"
+            ]
+        },
+        {
+            "word": "sáng chói",
+            "_word": "sang choi",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "lấp lánh",
+                "rực rỡ",
+                "chói lọi"
+            ]
+        },
+        {
+            "word": "đỏ thắm",
+            "_word": "do tham",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "đỏ rực",
+                "đỏ tươi",
+                "đỏ au"
+            ]
+        },
+        {
+            "word": "sau",
+            "_word": "sau",
+            "description": "Ở phía đối lập với phía trước mặt, khi mắt nhìn thẳng không thể thấy được.",
+            "tl": "Tính từ",
+            "synset_vi": []
+        },
+        {
+            "word": "say sưa",
+            "_word": "say sua",
+            "description": "Ở trạng thái bị tập trung, cuốn hút hoàn toàn vào một công việc hứng thú nào đó.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "say mê",
+                "mải mê",
+                "chăm chú"
+            ]
+        },
+        {
+            "word": "sâu",
+            "_word": "sau",
+            "description": "Có khoảng cách bao nhiêu đó Tính từmiệng hoặc bề mặt đến đáy.",
+            "tl": "Tính từ",
+            "synset_vi": []
+        },
+        {
+            "word": "sâu thẳm",
+            "_word": "sau tham",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "sâu hun hút",
+                "sâu thăm thẳm"
+            ]
+        },
+        {
+            "word": "siêng năng",
+            "_word": "sieng nang",
+            "description": "Đức tính của con người, thể hiện sự cần cù, tự giác, miệt mài. làm việc thường xuyên, đều đặn.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "cần cù",
+                "chăm chỉ",
+                "cần mẫn"
+            ]
+        },
+        {
+            "word": "siêu tốc",
+            "_word": "sieu toc",
+            "description": "Có tốc độ rất cao, vượt xa tốc độ bình thường.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "nhanh chóng",
+                "thần tốc"
+            ]
+        },
+        {
+            "word": "sinh động",
+            "_word": "sinh dong",
+            "description": "Đầy sức sống với nhiều dạng, nhiều vẻ khác nhau.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "sống động",
+                "hấp dẫn",
+                "lôi cuốn"
+            ]
+        },
+        {
+            "word": "song song",
+            "_word": "song song",
+            "description": "Không cắt nhau hoặc không có một điểm nào chung.",
+            "tl": "Tính từ",
+            "synset_vi": []
+        },
+        {
+            "word": "tài giỏi",
+            "_word": "tai gioi",
+            "description": "Có tài và giỏi giang (nói khái quát).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "xuất sắc",
+                "năng lực",
+                "tài năng"
+            ]
+        },
+        {
+            "word": "tài năng",
+            "_word": "tai nang",
+            "description": "Năng lực xuất sắc, khả năng làm giỏi và có sáng tạo trong công việc.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "xuất chúng",
+                "thiên tài"
+            ]
+        },
+        {
+            "word": "tham lam",
+            "_word": "tham lam",
+            "description": "Muốn lấy hết, vơ hết về cho mình.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "ích kỷ",
+                "hám lợi"
+            ]
+        },
+        {
+            "word": "thản nhiên",
+            "_word": "than nhien",
+            "description": "Có dáng vẻ tự nhiên như thường, coi như không có gì xảy ra.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "bình thản",
+                "dửng dưng",
+                "tự nhiên"
+            ]
+        },
+        {
+            "word": "thành thạo",
+            "_word": "thanh thao",
+            "description": "Rất thạo, do đã quen làm và đã có kinh nghiệm.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "lưu loát",
+                "chuyên nghiệp"
+            ]
+        },
+        {
+            "word": "thăng bằng",
+            "_word": "thang bang",
+            "description": "Thế của một vị trí tự giữ được không bị chao đảo, ngả nghiêng.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "cân bằng",
+                "vững vàng"
+            ]
+        },
+        {
+            "word": "thẳng hàng (Toán học)",
+            "_word": "thang hang (toan hoc)",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": []
+        },
+        {
+            "word": "thẳng tắp",
+            "_word": "thang tap",
+            "description": "Thẳng thành một đường dài, đều đặn.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thẳng băng",
+                "thẳng đuột"
+            ]
+        },
+        {
+            "word": "thân thiết",
+            "_word": "than thiet",
+            "description": "Có quan hệ tình cảm gần gũi và gắn bó mật thiết với nhau.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "gần gũi",
+                "thân tình"
+            ]
+        },
+        {
+            "word": "thân thiện",
+            "_word": "than thien",
+            "description": "Có biểu hiện tỏ ra tử tế và có thiện cảm với nhau.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "hiền hòa",
+                "tử tế",
+                "thân mật"
+            ]
+        },
+        {
+            "word": "thấp hơn",
+            "_word": "thap hon",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": []
+        },
+        {
+            "word": "thấp nhất",
+            "_word": "thap nhat",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": []
+        },
+        {
+            "word": "thập thò",
+            "_word": "thap tho",
+            "description": "Từ gợi tả dáng vẻ ló ra rồi lại thụt vào hoặc khuất đi, nhiều lần như vậy, có ý như e sợ, rụt rè.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "lấp ló",
+                "e dè"
+            ]
+        },
+        {
+            "word": "thật thà",
+            "_word": "that tha",
+            "description": "(tính người) tự bộc lộ mình một cách tự nhiên như vốn có, không giả dối, không giả tạo.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "trung thực",
+                "chân thật"
+            ]
+        },
+        {
+            "word": "thích thú",
+            "_word": "thich thu",
+            "description": "Có cảm giác bằng lòng, cảm thấy một đòi hỏi nào đó được thoả mãn.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "hào hứng",
+                "say mê",
+                "vui vẻ"
+            ]
+        },
+        {
+            "word": "thiệt thòi",
+            "_word": "thiet thoi",
+            "description": "Phải chịu điều thiệt, thường là lớn và do hoàn cảnh đưa lại (nói khái quát).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "bất lợi",
+                "thiếu thốn"
+            ]
+        },
+        {
+            "word": "thông minh",
+            "_word": "thong minh",
+            "description": "Có năng lực trí tuệ tốt, hiểu nhanh, tiếp thu nhanh.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "sáng dạ",
+                "nhanh trí"
+            ]
+        },
+        {
+            "word": "thông thường",
+            "_word": "thong thuong",
+            "description": "Thường có, thường thấy, không có gì lạ hoặc đặc biệt.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "bình thường",
+                "thường lệ"
+            ]
+        },
+        {
+            "word": "tuổi thơ ấu",
+            "_word": "tuoi tho au",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": []
+        },
+        {
+            "word": "thơm",
+            "_word": "thom",
+            "description": "Có mùi như mùi hương của hoa, dễ chịu, làm cho thích ngửi.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thơm ngát",
+                "thơm tho"
+            ]
+        },
+        {
+            "word": "thuận lợi",
+            "_word": "thuan loi",
+            "description": "Có nhiều yếu tố hoặc điều kiện dễ dàng (để thực hiện việc gì).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thuận tiện",
+                "dễ dàng",
+                "thuận buồm xuôi gió"
+            ]
+        },
+        {
+            "word": "thủng",
+            "_word": "thung",
+            "description": "Có chỗ bị rách hoặc bị chọc thành lỗ xuyên qua vật.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "lỗ",
+                "rách"
+            ]
+        },
+        {
+            "word": "thủy chung",
+            "_word": "thuy chung",
+            "description": "Nói về tình cảm son sắt, không thay đổi qua thời gian.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "son sắt",
+                "chung thủy"
+            ]
+        },
+        {
+            "word": "thư giãn",
+            "_word": "thu gian",
+            "description": "Làm cho cơ bắp, đầu óc được thả lỏng hoặc thảnh thơi hoàn toàn, tạo nên cảm giác thư thái và thoải mái cho cơ thể.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thoải mái",
+                "dễ chịu"
+            ]
+        },
+        {
+            "word": "thực sự",
+            "_word": "thuc su",
+            "description": "(phương ngữ) thật, có thật, với đầy đủ mức độ hoặc ý nghĩa.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thật sự",
+                "chính xác"
+            ]
+        },
+        {
+            "word": "tỉ mỉ",
+            "_word": "ti mi",
+            "description": "Đầy đủ mọi khía cạnh, kĩ đến từng chi tiết nhỏ.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "cẩn thận",
+                "kỹ lưỡng",
+                "chi tiết"
+            ]
+        },
+        {
+            "word": "tí hon",
+            "_word": "ti hon",
+            "description": "Có hình dáng, kích thước nhỏ hơn rất nhiều lần so với bình thường.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "nhỏ xíu",
+                "bé nhỏ"
+            ]
+        },
+        {
+            "word": "tích cực",
+            "_word": "tich cuc",
+            "description": "Tỏ ra nhiệt tình, đem hết khả năng và tâm trí vào công việc.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "năng động",
+                "nhiệt tình",
+                "hăng hái"
+            ]
+        },
+        {
+            "word": "tiện nghi",
+            "_word": "tien nghi",
+            "description": "Những trang bị, đồ dùng cần thiết cho sinh hoạt hằng ngày được thuận tiện, thoải mái (nói tổng quát).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thuận tiện",
+                "thoải mái",
+                "tiện lợi"
+            ]
+        },
+        {
+            "word": "tiêu cực",
+            "_word": "tieu cuc",
+            "description": "Có ý nghĩa, có tác dụng phủ định, làm trở ngại sự phát triển.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "phủ định",
+                "tiêu điều",
+                "bất lợi",
+                "hạn chế"
+            ]
+        },
+        {
+            "word": "tím tái",
+            "_word": "tim tai",
+            "description": "Tái đến mức trông như tím đi (thường nói về sắc da).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "nhợt nhạt",
+                "xanh xao",
+                "tái mét",
+                "thiếu máu"
+            ]
+        },
+        {
+            "word": "tin cậy",
+            "_word": "tin cay",
+            "description": "Tin tưởng tới mức hoàn toàn trông cậy vào.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "tin tưởng",
+                "trông cậy",
+                "đặt niềm tin"
+            ]
+        },
+        {
+            "word": "tình cờ",
+            "_word": "tinh co",
+            "description": "Không có chủ tâm, do ngẫu nhiên, vô tình gặp hoặc nhận biết được.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "ngẫu nhiên",
+                "bất ngờ",
+                "vô tình"
+            ]
+        },
+        {
+            "word": "tĩnh lặng",
+            "_word": "tinh lang",
+            "description": "Hoàn toàn yên ắng, dường như không có một tiếng động hoặc một hoạt động nào diễn ra.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "yên ắng",
+                "im lìm",
+                "vắng lặng"
+            ]
+        },
+        {
+            "word": "trái nghĩa",
+            "_word": "trai nghia",
+            "description": "Từ có nghĩa trái ngược nhau.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "đối lập",
+                "ngược nghĩa",
+                "tương phản"
+            ]
+        },
+        {
+            "word": "tràn ngập (nước)",
+            "_word": "tran ngap (nuoc)",
+            "description": "Có rất nhiều, đến mức như bao phủ, che lấp hết cả bề mặt.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "ngập lụt",
+                "nước dâng",
+                "bao phủ"
+            ]
+        },
+        {
+            "word": "trắng muốt",
+            "_word": "trang muot",
+            "description": "Trắng, mịn màng, tươi sáng.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "trắng tinh",
+                "trắng nõn",
+                "trắng sáng"
+            ]
+        },
+        {
+            "word": "trắng tay",
+            "_word": "trang tay",
+            "description": "(Khẩu ngữ) bị mất hết tất cả tiền bạc của cải, hoàn toàn không còn gì.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "mất trắng",
+                "tay trắng",
+                "không xu dính túi"
+            ]
+        },
+        {
+            "word": "trầm trồ",
+            "_word": "tram tro",
+            "description": "Thốt ra lời khen ngợi với vẻ ngạc nhiên, thán phục.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thán phục",
+                "ngưỡng mộ",
+                "tán thưởng"
+            ]
+        },
+        {
+            "word": "tròn trịa (mặt)",
+            "_word": "tron tria (mat)",
+            "description": "Tròn đều, vẻ gọn đẹp (nói khái quát).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "đầy đặn",
+                "phúng phính",
+                "gọn gàng"
+            ]
+        },
+        {
+            "word": "trong sáng",
+            "_word": "trong sang",
+            "description": "Trong và sáng, không một chút vẩn đục, không một vết mờ.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "minh bạch",
+                "lương thiện",
+                "thanh cao"
+            ]
+        },
+        {
+            "word": "tròn",
+            "_word": "tron",
+            "description": "Có hình dáng, đường nét giống như hình tròn, đường tròn.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "bầu bĩnh",
+                "đầy đặn",
+                "cong tròn"
+            ]
+        },
+        {
+            "word": "trong ngoài",
+            "_word": "trong ngoai",
+            "description": "Cả trong và ngoài.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "toàn bộ",
+                "tất cả"
+            ]
+        },
+        {
+            "word": "trong suốt",
+            "_word": "trong suot",
+            "description": "Trong đến mức có thể nhìn xuyên qua.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "trong vắt",
+                "trong veo"
+            ]
+        },
+        {
+            "word": "trụi lá",
+            "_word": "trui la",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "trọc lóc",
+                "khẳng khiu"
+            ]
+        },
+        {
+            "word": "trung bình",
+            "_word": "trung binh",
+            "description": "Ở vào khoảng giữa của hai cực trong bậc thang đánh giá, không khá cũng không kém, không cao cũng không thấp.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "bình thường",
+                "khá"
+            ]
+        },
+        {
+            "word": "trung tâm",
+            "_word": "trung tam",
+            "description": "Nơi ở giữa của một vùng nào đó; thường là nơi dân cư tập trung đông đúc nhất.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "khu trung tâm"
+            ]
+        },
+        {
+            "word": "trung thành",
+            "_word": "trung thanh",
+            "description": "Trước sau một lòng một dạ, giữ trọn niềm tin, giữ trọn những tình cảm gắn bó, những điều đã cam kết đối với ai hay cái gì.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thủy chung",
+                "son sắt",
+                "trung nghĩa"
+            ]
+        },
+        {
+            "word": "trực tiếp",
+            "_word": "truc tiep",
+            "description": "Có quan hệ thẳng với đối tượng tiếp xúc, không qua khâu trung gian.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "trực diện",
+                "ngay mặt"
+            ]
+        },
+        {
+            "word": "trước",
+            "_word": "truoc",
+            "description": "Phía những vị trí mà mắt nhìn thẳng có thể thấy được.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "phía trước"
+            ]
+        },
+        {
+            "word": "tung tăng",
+            "_word": "tung tang",
+            "description": "Di chuyển không ngừng từ chỗ nọ đến chỗ kia với những động tác biểu thị sự vui thích (thường nói về trẻ con hoặc con vật nhỏ).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "nhảy nhót",
+                "vui vẻ",
+                "nhí nhảnh"
+            ]
+        },
+        {
+            "word": "tuyệt vọng",
+            "_word": "tuyet vong",
+            "description": "Mất hết mọi hi vọng.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thất vọng",
+                "buông xuôi"
+            ]
+        },
+        {
+            "word": "tự do",
+            "_word": "tu do",
+            "description": "Không bị cấm đoán, hạn chế vô lí trong hoạt động cụ thể nào đó.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "tự tại",
+                "thoải mái"
+            ]
+        },
+        {
+            "word": "tự lập",
+            "_word": "tu lap",
+            "description": "Tự xây dựng lấy cuộc sống cho mình, không ỷ lại, nhờ vả người khác.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "độc lập",
+                "tự chủ"
+            ]
+        },
+        {
+            "word": "tự tin",
+            "_word": "tu tin",
+            "description": "Tin vào bản thân mình.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "bản lĩnh"
+            ]
+        },
+        {
+            "word": "tươi cười",
+            "_word": "tuoi cuoi",
+            "description": "(vẻ mặt) Biểu hiện vui vẻ, phấn khởi.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "rạng rỡ",
+                "hớn hở"
+            ]
+        },
+        {
+            "word": "u ám ( trời u ám)",
+            "_word": "u am ( troi u am)",
+            "description": "(bầu trời) mờ tối đi, do có nhiều mây đen bao phủ.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "âm u",
+                "ảm đạm"
+            ]
+        },
+        {
+            "word": "ung dung",
+            "_word": "ung dung",
+            "description": "Có dáng điệu, cử chỉ tỏ ra bình tĩnh, thư thái, không có gì lo lắng, hoặc vội vã.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thư thái",
+                "điềm tĩnh",
+                "bình thản"
+            ]
+        },
+        {
+            "word": "ức chế",
+            "_word": "uc che",
+            "description": "Ngăn cản hoặc kìm hãm hoạt động.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "kìm hãm",
+                "hạn chế"
+            ]
+        },
+        {
+            "word": "ưu tiên",
+            "_word": "uu tien",
+            "description": "Được chú ý trước nhất, trước những đối tượng khác, vì được coi trọng hơn.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "ưu ái",
+                "coi trọng"
+            ]
+        },
+        {
+            "word": "vạm vỡ",
+            "_word": "vam vo",
+            "description": "Có thân hình to lớn, nở nang, rắn chắc, trông rất khoẻ mạnh (thường nói về đàn ông).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "cường tráng",
+                "lực lưỡng"
+            ]
+        },
+        {
+            "word": "vắn tắt",
+            "_word": "van tat",
+            "description": "Ngắn gọn, chỉ gồm những điểm cơ bản nhất.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "ngắn gọn",
+                "súc tích"
+            ]
+        },
+        {
+            "word": "vắng",
+            "_word": "vang",
+            "description": "Không có mặt, không xuất hiện ở một nơi nào đó như bình thường.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "vắng vẻ"
+            ]
+        },
+        {
+            "word": "vắng lặng",
+            "_word": "vang lang",
+            "description": "Từ chỉ không gian im ắng, vắng vẻ và lạnh lẽo.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "im ắng",
+                "yên tĩnh",
+                "lạnh lẽo"
+            ]
+        },
+        {
+            "word": "vênh váo",
+            "_word": "venh vao",
+            "description": "Từ gợi tả vẻ mặt hợm hĩnh, đáng ghét.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "kiêu ngạo",
+                "ngạo mạn"
+            ]
+        },
+        {
+            "word": "vĩ đại",
+            "_word": "vi dai",
+            "description": "Có tầm cỡ và giá trị lớn lao, đáng khâm phục.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "to lớn",
+                "vĩ mô",
+                "đáng kính"
+            ]
+        },
+        {
+            "word": "nhiều vô cùng",
+            "_word": "nhieu vo cung",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "vô số",
+                "hằng hà sa số",
+                "bạt ngàn"
+            ]
+        },
+        {
+            "word": "vô lí",
+            "_word": "vo li",
+            "description": "Không có lí, không hợp lẽ phải.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "phi lý",
+                "bất hợp lý"
+            ]
+        },
+        {
+            "word": "vô lo vô nghĩ",
+            "_word": "vo lo vo nghi",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thờ ơ",
+                "vô tư lự"
+            ]
+        },
+        {
+            "word": "vô tâm",
+            "_word": "vo tam",
+            "description": "Không hay để ý, quan tâm cả đến những điều người khác thường chú ý.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "hờ hững",
+                "lạnh nhạt"
+            ]
+        },
+        {
+            "word": "xa vô tận",
+            "_word": "xa vo tan",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "bát ngát",
+                "mênh mông"
+            ]
+        },
+        {
+            "word": "vô tư",
+            "_word": "vo tu",
+            "description": "Không hoặc ít lo nghĩ.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thanh thản",
+                "yên tâm"
+            ]
+        },
+        {
+            "word": "vô ý",
+            "_word": "vo y",
+            "description": "Không để ý, do sơ suất.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "vô tình",
+                "lỡ lầm"
+            ]
+        },
+        {
+            "word": "vô ý thức",
+            "_word": "vo y thuc",
+            "description": "Không có chủ định, không nhận biết rõ việc (sai trái) mình đang làm.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thiếu ý thức",
+                "thiếu trách nhiệm"
+            ]
+        },
+        {
+            "word": "vội vã",
+            "_word": "voi va",
+            "description": "Tỏ ra rất vội, hết sức muốn tranh thủ thời gian đến mức tối đa để cho kịp.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "hối hả",
+                "gấp gáp"
+            ]
+        },
+        {
+            "word": "vui mừng",
+            "_word": "vui mung",
+            "description": "Rất vui vì được như mong muốn (nói khái quát).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "phấn khởi",
+                "hạnh phúc"
+            ]
+        },
+        {
+            "word": "vui sướng",
+            "_word": "vui suong",
+            "description": "Vui vẻ và sung sướng.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "hân hoan",
+                "vui thích"
+            ]
+        },
+        {
+            "word": "vui tính",
+            "_word": "vui tinh",
+            "description": "Có tính luôn luôn vui vẻ.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "hài hước",
+                "dí dỏm"
+            ]
+        },
+        {
+            "word": "vuông góc",
+            "_word": "vuong goc",
+            "description": "Làm thành một góc vuông (nói về các đường thẳng) hoặc một nhị diện vuông (nói về hai mặt phẳng).",
+            "tl": "Tính từ",
+            "synset_vi": []
+        },
+        {
+            "word": "vững chắc",
+            "_word": "vung chac",
+            "description": "Có khả năng chịu tác động mạnh từ bên ngoài mà vẫn giữ nguyên được trạng thái, tính chất, không bị phá huỷ, đổ vỡ.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "kiên cố",
+                "bền vững"
+            ]
+        },
+        {
+            "word": "xa xôi",
+            "_word": "xa xoi",
+            "description": "Xa và đi lại cách trở về không gian, thời gian (nói khái quát).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "xa tít",
+                "xa lắc"
+            ]
+        },
+        {
+            "word": "xanh xao",
+            "_word": "xanh xao",
+            "description": "Có nước da xanh nhợt, vẻ ốm yếu.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "nhợt nhạt",
+                "tái mét"
+            ]
+        },
+        {
+            "word": "cây xanh tươi",
+            "_word": "cay xanh tuoi",
+            "description": "",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "cây cối xanh tốt",
+                "cây cối sum sê"
+            ]
+        },
+        {
+            "word": "xinh",
+            "_word": "xinh",
+            "description": "Có hình dáng và những đường nét rất dễ coi, ưa nhìn (thường nói về trẻ em, phụ nữ trẻ).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "đẹp",
+                "dễ thương"
+            ]
+        },
+        {
+            "word": "xinh xắn",
+            "_word": "xinh xan",
+            "description": "Rất xinh (nói khái quát).",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "xinh đẹp",
+                "đáng yêu"
+            ]
+        },
+        {
+            "word": "yên bình",
+            "_word": "yen binh",
+            "description": "Yên vui trong cảnh hòa bình.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thanh bình",
+                "yên tĩnh"
+            ]
+        },
+        {
+            "word": "yên lòng",
+            "_word": "yen long",
+            "description": "Ở trạng thái tâm lí không có điều gì phải lo lắng cả.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "thoải mái",
+                "an tâm"
+            ]
+        },
+        {
+            "word": "yên tâm",
+            "_word": "yen tam",
+            "description": "Ở trạng thái tâm lí yên ổn, không có gì phải băn khoăn, lo lắng cả.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "an lòng",
+                "tin tưởng"
+            ]
+        },
+        {
+            "word": "yêu mến (yêu quí)",
+            "_word": "yeu men (yeu qui)",
+            "description": "Có tình cảm thân thiết, thích gần gũi.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "yêu thương",
+                "quý mến"
+            ]
+        },
+        {
+            "word": "yếu",
+            "_word": "yeu",
+            "description": "Có sức lực kém dưới mức bình thường, trái nghĩa với khỏe.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "ốm yếu",
+                "suy nhược"
+            ]
+        },
+        {
+            "word": "gù lưng",
+            "_word": "gu lung",
+            "description": "Lưng cong thành tật hoặc có bướu.",
+            "tl": "Tính từ",
+            "synset_vi": [
+                "cong lưng",
+                "lưng tôm"
+            ]
+        }
+    ]
+}

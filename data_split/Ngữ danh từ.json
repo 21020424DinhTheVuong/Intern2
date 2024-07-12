@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "word": "mỗi ngày",
+            "_word": "moi ngay",
+            "description": "",
+            "tl": "Ngữ danh từ",
+            "synset_vi": [
+                "hàng ngày",
+                "mọi ngày",
+                "ngày nào cũng vậy",
+                "thường ngày"
+            ]
+        },
+        {
+            "word": "mồ hôi nhễ nhại",
+            "_word": "mo hoi nhe nhai",
+            "description": "",
+            "tl": "Ngữ danh từ",
+            "synset_vi": [
+                "toát mồ hôi",
+                "đổ mồ hôi",
+                "ướt đẫm mồ hôi",
+                "mồ hôi túa ra"
+            ]
+        }
+    ]
+}

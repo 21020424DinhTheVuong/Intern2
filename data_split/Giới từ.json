@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "word": "cũng vậy/cũng thế",
+            "_word": "cung vay/cung the",
+            "description": "",
+            "tl": "Giới từ",
+            "synset_vi": [
+                "thế",
+                "vậy",
+                "như thế",
+                "như vậy"
+            ]
+        },
+        {
+            "word": "cùng / với (giới từ)",
+            "_word": "cung / voi (gioi tu)",
+            "description": "",
+            "tl": "Giới từ",
+            "synset_vi": [
+                "với",
+                "cùng với",
+                "và",
+                "hay"
+            ]
+        }
+    ]
+}

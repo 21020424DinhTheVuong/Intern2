@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "word": "suýt",
+            "_word": "suyt",
+            "description": "Chỉ còn thiếu chút nữa là đã xảy ra (thường là điều không hay).",
+            "tl": "Phụ từ",
+            "synset_vi": [
+                "gần",
+                "hầu như",
+                "thiếu chút nữa"
+            ]
+        },
+        {
+            "word": "vẫn",
+            "_word": "van",
+            "description": "Từ biểu thị ý khẳng định về điều xảy ra, diễn ra như bình thường, cho dù điều kiện là không bình thường.",
+            "tl": "Phụ từ",
+            "synset_vi": [
+                "cứ",
+                "vẫn như cũ",
+                "y nguyên"
+            ]
+        }
+    ]
+}

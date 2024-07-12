@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "word": "ham chơi",
+            "_word": "ham choi",
+            "description": "",
+            "tl": "Ngữ tính từ",
+            "synset_vi": [
+                "thích chơi",
+                "mê chơi",
+                "lười biếng",
+                "hay la cà",
+                "không chịu học hành"
+            ]
+        },
+        {
+            "word": "khó tiêu",
+            "_word": "kho tieu",
+            "description": "",
+            "tl": "Ngữ tính từ",
+            "synset_vi": [
+                "lâu tiêu",
+                "đầy bụng",
+                "bụng khó chịu",
+                "no hơi",
+                "ức chế dạ dày"
+            ]
+        }
+    ]
+}

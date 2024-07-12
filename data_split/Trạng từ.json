@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "word": "quanh năm",
+            "_word": "quanh nam",
+            "description": "Suốt từ đầu năm đến cuối năm.",
+            "tl": "Trạng từ",
+            "synset_vi": [
+                "suốt năm",
+                "cả năm"
+            ]
+        },
+        {
+            "word": "đằng sau",
+            "_word": "dang sau",
+            "description": "",
+            "tl": "Trạng từ",
+            "synset_vi": [
+                "phía sau",
+                "sau lưng",
+                "hậu phương",
+                "ở đằng sau"
+            ]
+        },
+        {
+            "word": "đằng trước",
+            "_word": "dang truoc",
+            "description": "",
+            "tl": "Trạng từ",
+            "synset_vi": [
+                "phía trước",
+                "trước mặt",
+                "tiên phong",
+                "ở đằng trước"
+            ]
+        }
+    ]
+}

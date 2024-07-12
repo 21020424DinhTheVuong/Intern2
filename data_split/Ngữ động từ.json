@@ -1,0 +1,220 @@
+{
+    "data": [
+        {
+            "word": "không nghe lời",
+            "_word": "khong nghe loi",
+            "description": "",
+            "tl": "Ngữ động từ",
+            "synset_vi": [
+                "cãi lời",
+                "bất tuân",
+                "không vâng lời"
+            ]
+        },
+        {
+            "word": "không cho",
+            "_word": "khong cho",
+            "description": "",
+            "tl": "Ngữ động từ",
+            "synset_vi": [
+                "từ chối",
+                "ngăn cấm",
+                "không cho phép"
+            ]
+        },
+        {
+            "word": "không cần",
+            "_word": "khong can",
+            "description": "",
+            "tl": "Ngữ động từ",
+            "synset_vi": [
+                "không cần thiết",
+                "không bắt buộc",
+                "không nhất thiết"
+            ]
+        },
+        {
+            "word": "không nên",
+            "_word": "khong nen",
+            "description": "",
+            "tl": "Ngữ động từ",
+            "synset_vi": [
+                "không được phép",
+                "không thích hợp",
+                "không nên làm"
+            ]
+        },
+        {
+            "word": "không quen",
+            "_word": "khong quen",
+            "description": "",
+            "tl": "Ngữ động từ",
+            "synset_vi": [
+                "lạ lẫm",
+                "không quen biết",
+                "xa lạ"
+            ]
+        },
+        {
+            "word": "không có",
+            "_word": "khong co",
+            "description": "",
+            "tl": "Ngữ động từ",
+            "synset_vi": [
+                "vắng mặt",
+                "không tồn tại",
+                "không có sẵn"
+            ]
+        },
+        {
+            "word": "không có chi",
+            "_word": "khong co chi",
+            "description": "",
+            "tl": "Ngữ động từ",
+            "synset_vi": [
+                "không có gì",
+                "không sao",
+                "không vấn đề gì"
+            ]
+        },
+        {
+            "word": "không đẹp",
+            "_word": "khong dep",
+            "description": "",
+            "tl": "Ngữ động từ",
+            "synset_vi": [
+                "xấu",
+                "không ưa nhìn",
+                "không bắt mắt"
+            ]
+        },
+        {
+            "word": "suy ra (Toán học)",
+            "_word": "suy ra (toan hoc)",
+            "description": "",
+            "tl": "Ngữ động từ",
+            "synset_vi": [
+                "kết luận",
+                "rút ra",
+                "suy luận"
+            ]
+        },
+        {
+            "word": "không muốn",
+            "_word": "khong muon",
+            "description": "",
+            "tl": "Ngữ động từ",
+            "synset_vi": [
+                "từ chối",
+                "không thích",
+                "không muốn làm"
+            ]
+        },
+        {
+            "word": "không ngon",
+            "_word": "khong ngon",
+            "description": "",
+            "tl": "Ngữ động từ",
+            "synset_vi": [
+                "dở",
+                "khó ăn",
+                "không hợp khẩu vị"
+            ]
+        },
+        {
+            "word": "không dám",
+            "_word": "khong dam",
+            "description": "",
+            "tl": "Ngữ động từ",
+            "synset_vi": [
+                "sợ hãi",
+                "e ngại",
+                "không đủ can đảm"
+            ]
+        },
+        {
+            "word": "gấp đôi",
+            "_word": "gap doi",
+            "description": "",
+            "tl": "Ngữ động từ",
+            "synset_vi": [
+                "tăng gấp hai",
+                "nhân đôi"
+            ]
+        },
+        {
+            "word": "gấp ba",
+            "_word": "gap ba",
+            "description": "",
+            "tl": "Ngữ động từ",
+            "synset_vi": [
+                "tăng gấp ba",
+                "nhân ba"
+            ]
+        },
+        {
+            "word": "đi lạc (đường, rừng..)",
+            "_word": "di lac (duong, rung..)",
+            "description": "",
+            "tl": "Ngữ động từ",
+            "synset_vi": [
+                "lạc đường",
+                "mất phương hướng",
+                "không tìm thấy đường"
+            ]
+        },
+        {
+            "word": "ăn đủ",
+            "_word": "an du",
+            "description": "",
+            "tl": "Ngữ động từ",
+            "synset_vi": [
+                "no bụng",
+                "ăn vừa đủ",
+                "không đói nữa"
+            ]
+        },
+        {
+            "word": "ăn vừa",
+            "_word": "an vua",
+            "description": "",
+            "tl": "Ngữ động từ",
+            "synset_vi": [
+                "ăn vừa phải",
+                "ăn điều độ",
+                "không ăn quá nhiều"
+            ]
+        },
+        {
+            "word": "ăn ít",
+            "_word": "an it",
+            "description": "",
+            "tl": "Ngữ động từ",
+            "synset_vi": [
+                "ăn kiêng",
+                "nhịn ăn",
+                "ăn không đủ no"
+            ]
+        },
+        {
+            "word": "gãy chân",
+            "_word": "gay chan",
+            "description": "",
+            "tl": "Ngữ động từ",
+            "synset_vi": [
+                "bị gãy xương chân",
+                "gãy xương cẳng chân"
+            ]
+        },
+        {
+            "word": "gãy tay",
+            "_word": "gay tay",
+            "description": "",
+            "tl": "Ngữ động từ",
+            "synset_vi": [
+                "bị gãy xương tay",
+                "gãy xương cánh tay"
+            ]
+        }
+    ]
+}

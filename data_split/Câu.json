@@ -1,0 +1,55 @@
+{
+    "data": [
+        {
+            "word": "bạn yêu tôi",
+            "_word": "ban yeu toi",
+            "description": "",
+            "tl": "Câu",
+            "synset_vi": [
+                "bạn thương tôi",
+                "bạn có tình cảm với tôi"
+            ]
+        },
+        {
+            "word": "bạn ấy yêu tôi",
+            "_word": "ban ay yeu toi",
+            "description": "",
+            "tl": "Câu",
+            "synset_vi": [
+                "bạn ấy thương tôi",
+                "bạn ấy có tình cảm với tôi"
+            ]
+        },
+        {
+            "word": "bạn yêu bạn ấy",
+            "_word": "ban yeu ban ay",
+            "description": "",
+            "tl": "Câu",
+            "synset_vi": [
+                "bạn thương bạn ấy",
+                "bạn có tình cảm với bạn ấy"
+            ]
+        },
+        {
+            "word": "bạn ấy yêu bạn",
+            "_word": "ban ay yeu ban",
+            "description": "",
+            "tl": "Câu",
+            "synset_vi": [
+                "bạn ấy thương bạn",
+                "bạn ấy có tình cảm với bạn"
+            ]
+        },
+        {
+            "word": "đất nước bị chia cắt (Việt Nam)",
+            "_word": "dat nuoc bi chia cat (viet nam)",
+            "description": "",
+            "tl": "Câu",
+            "synset_vi": [
+                "Việt Nam bị chia đôi",
+                "Hai miền Nam - Bắc bị chia cắt",
+                "Tổ quốc bị chia cắt"
+            ]
+        }
+    ]
+}
